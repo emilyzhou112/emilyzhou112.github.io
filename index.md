@@ -3,21 +3,27 @@ layout: default
 title: Main Page
 ---
 
-# This is a heading
+# Emily Zhou's Open Source GIS Portfolio
 
-Leave blank lines between paragraphs, tables, lists, etc.
-Start sentences on new lines.
-If you want to break a line, leave two blank spaces at the end.  
-If you want a new line, which hopefully this is
+Hi! My name is Emily and welcome to my Open Source GIS portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
 
-- bullet list first bullet
-- second point
-
-1. numbered item.
-2. second item.
+This website is a documentation of GIS analyses, course reflections, as well as other cartographic works that I have done for [GEOOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler as well as relevant project works in other geography classes at Middlebury.  
 
 
-The course website is found [here](http://gis4dev.github.io)
+## Blog Posts
+
+- [What is Open Source GIScience?](open-giscience)
+-
+
+## GIS Analyses
+
+- 
+-
+
+
+
+
+
 
 Here is some *italicized* and some **bold text**
 
@@ -25,7 +31,3 @@ first column | second column | third column
 :------------| :------------:| :------------
 left align |  center align | right align
 new row  || blank center
-
-## Blog Posts
-
-1. [Open GIScience](open-giscience)
