@@ -11,10 +11,12 @@ This website is a documentation of GIS analyses, course reflections, as well as 
 
 ![Lake](assets/IMG_7528.JPG)
 
-> You cannot count how many islands are above on the *Thousand Island Lake*
-> but you may learn how techniques used in **GIS researches** and **effective spatial planning** have played a significant role in drinking water supply for eastern China.
+Some thoughts:
 
-techniques and software used in GIS research
+> It might be boring to count how many islands are above on the *Thousand Island Lake*
+> but never dull to learn how techniques used in **GIS researches** and **effective spatial planning** have played a significant role in drinking water supply for eastern China :smile:
+
+
 
 ## Blog Posts  
 
