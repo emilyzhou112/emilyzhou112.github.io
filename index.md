@@ -13,7 +13,7 @@ This website is a documentation of GIS analyses, course reflections, as well as 
 
 ## Blog Posts
 
-- [What is Open Source GIScience?](open-giscience)
+- [Open Source GIScience?](open-giscience)
 -
 
 ## GIS Analyses
