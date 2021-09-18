@@ -3,12 +3,13 @@ layout: default
 title: Main Page
 ---
 
-# Emily Zhou's Open Source GIS Portfolio
+# Emily's Open Source GIS Portfolio
 
 Hi! My name is Emily and welcome to my Open Source GIS portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
 
-This website is a documentation of GIS analyses, course reflections, as well as other cartographic works that I have done for [GEOOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler as well as relevant project works in other geography classes at Middlebury.  
+This website is a documentation of GIS analyses, course reflections, as well as other cartographic works that I have done for [GEOOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler as well as other relevant project works done in geography classes at Middlebury.  
 
+![Lake](assets/IMG_7528.JPG)
 
 ## Blog Posts
 
@@ -17,7 +18,6 @@ This website is a documentation of GIS analyses, course reflections, as well as 
 
 ## GIS Analyses
 
-- 
 -
 
 
