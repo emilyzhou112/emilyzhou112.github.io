@@ -1,9 +1,7 @@
 ---
 layout: page
-title: What is Open GIScience?
+title: What is Open Source GIScience?
 ---
-
-# What is Open Source GIScience?
 
 This is a friendly reminder to write a blog post about open GIScience for next class.
 
