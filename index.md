@@ -12,6 +12,8 @@ This website is a documentation of GIS analyses, course reflections, as well as 
 ![Lake](assets/IMG_7528.JPG)
 *Thousand Island Lake, Chun'an, China*
 
+
+
 Some thoughts:
 
 > It might be boring to count how many islands are above on the *Thousand Island Lake*
