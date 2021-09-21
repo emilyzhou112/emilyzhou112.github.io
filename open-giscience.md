@@ -26,5 +26,5 @@ Nevertheless, despite the barriers that open-source project needs to overcome, t
 *West Lake, Hangzhou, China*
 
 Some thoughts:
-> The moon is reproduced on the West Lake
+> The moon is reproduced on the West Lake  
 > How about your GIS research?
