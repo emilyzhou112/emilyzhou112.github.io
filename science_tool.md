@@ -15,7 +15,21 @@ How different it is between aligning GIS with tool or science? A tool is concret
 
 ### The tool-science continuum: tool, tool-making, science
 
+In short, the tool-science binary is limited in scope since GIS could not be understood by two distinct positions. We need the scientific knowledge to properly use the tool and the tool allows to better understand a scientific discipline. As such, an alternative approach to properly understand, as mentioned by Wright et al, is to situate GIS along a tool-science continuum. In doing so, he subsequently developed the tool-making perspective as a middle-ground. This perspective is concerned with advancing the tool’s capabilities, regularly promoting the adoption of GIS, and ensuring its responsible use. Indeed, based on many of the work I have done at Middlebury, GIS is not yet a “science”, but definitely “more” than a tool. For example, in GEOG 0120: Human Geography with GIS, we are not only using GIS as a tool for spatial analysis but are also prompted to develop an algorithm (workflow). In GEOG 1026: Visualizing our Future, in addition to producing cartographic layouts using spatial data, we were also asked to use these maps we produce to address sets of planning problems.
+
+That being said, there is not a definite conclusion on whether GIS falls under a tool or science. GIS could be a discourse which would include both the science and tool views. While GIS is flexible along the tool-science continuum, the answer is sometimes contingent upon several factors. As Wright mentioned, this could depend on who is involved: developers of GIS see it as a sophisticated science while salesmen and students recognize it as a tool. On top of that, I believe that one’s personal experience with could GIS also play a role as in introductory level geography classes, students are introduced to GIS merely as problem solving tool. Yet, when we dive deeper to explore the tool itself in GIS classes, we gradually came to see why GIS could stand alone as a discipline.
+
+===
+
+*NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI:10.17226/25303*
+
+*Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057*
+
+===
 
 
-![Lake](assets/IMG_5569.jpg)
-*Hengshan Reservoir, Yixing, China*
+![Scene](assets/IMG_2070.jpg)
+*Xianju, Taizhou, China (07/05/19)*
+
+> Hmm I cannot see anything ahead  
+> Is that a tool or a science?
