@@ -13,7 +13,7 @@ The discipline of geography is reliant on R&R because geographers are also inter
 
 Because of the interdisciplinarity inherent in geography, a greater implication of R&R on geography would be the unlimited opportunities to apply studies across disciplines. In other words, the significance of lessons learned from R&R within geography extend beyond the boundaries of geography and benefits knowledge production in other fields (in geology, urban studies, architecture studies, etc.). Hence, if practicing R&R from an open science perspective, geographers can align their research with other dominant scientific inquires.
 
-However, given the hope and benefits of practicing R&R and how it helps to establish the credibility of existing research, should we set up a standard based on the degree of R&R to evaluate the success of a research?  AS mentioned by Kedron and Sui, the implication of R&R is complex and multifaced. The crisis of non-reproducibility perpetuates and the reasons that lead to such non-reproducibility is often multifarious and to beyond the scope of using open-source software to address them. We are unconscious about many of those reason. For example, many of the exact methods employed in a study may not be detailed in the method section of a study or the original study itself is designed and reported poorly, which makes it more unlikely to be reproduced (NASEM 2019). 
+However, given the hope and benefits of practicing R&R and how it helps to establish the credibility of existing research, should we set up a standard based on the degree of R&R to evaluate the success of a research?  AS mentioned by Kedron and Sui, the implication of R&R is complex and multifaced. The crisis of non-reproducibility perpetuates and the reasons that lead to such non-reproducibility is often multifarious and to beyond the scope of using open-source software to address them. We are unconscious about many of those reason. For example, many of the exact methods employed in a study may not be detailed in the method section of a study or the original study itself is designed and reported poorly, which makes it more unlikely to be reproduced (NASEM 2019).
 
 To situate our discussion in the context of geography, non-reproducibility and non-replicability are often attributed to the role of place, time, and scale. The spatial and temporal heterogeneity inherent in many geographic research has made it difficult to establish consistent criteria of when replications have been achieved. On top of that, even with openly accessible data and open-source software, any variables operating at different places and scales could complicate the R&R process and eventually render a study non-reproducible. Nevertheless, failing to reproduce and replicate geographic research does not translate to untruth and doing so successfully does not imply truth as in geography, it is always easy to delineate place from place but hard to generalize.
 
@@ -26,3 +26,8 @@ In summary, with the open-source movement as the fundamental pillar, practicing 
 *Sui, D., and P. Kedron. 2021. Reproducibility and Replicability in the Context of the Contested Identities of Geography. Annals of the American Association of Geographers 111 (5):1275–1283. DOI:10.1080/24694452.2020.1806024.*
 
 ===
+
+![Scene](assets/IMG_3876.jpg)
+*Huzhou, China (09/01/20)*
+
+> When an ancient town gets reproduced under the water ~
