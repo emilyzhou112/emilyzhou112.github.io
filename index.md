@@ -26,7 +26,8 @@ This website is a documentation of GIS analyses, course reflections, and other c
 
 - What is [Open Source GIScience?](open-giscience)
 - GIS: [Science or Tool?](science_tool)
-- [Reproducibility and Replicability in Geography](r_r) 
+- [Reproducibility and Replicability in Geography](r_r)
+- [Error and Uncertainty in GIS](error_uncertainty)
 
 
 ## GIS Analyses
