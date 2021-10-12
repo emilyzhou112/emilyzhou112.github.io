@@ -19,7 +19,7 @@ Many developing countries are facing water accessibility crisis under climate ch
 
 [Research Compendia](https://github.com/emilyzhou112/Dar-Es-Salaam-Resilience)  
 
-[Leaflet Map]
+[Leaflet Map](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802)
 
 ## Introduction
 
@@ -246,7 +246,7 @@ The impact of flood on water accessibility is uneven across space. Demographical
 
 A couple of wards are of particular interests in the choropleth map. For example, Tandale is one of the wards in Dar es Salaam where households’ water access is severely affected during flood: this ward is densely populated and as much as 65% of all households in Tandale will have their water access cut off during flood. Wazo exemplifies a costal ward where over 50% of households do not have access to clean water during flood, although it is less densely populated. Nevertheless, not all populated wards are equally vulnerable to flood: ward Azimio is located in the vicinity of river channel and is densely populated. Calculations show, however, that households’ water access in this ward are not affected by flood.
 
-You may use this Leaflet web map [here] to see the data aggregated for each ward.
+You may use this Leaflet web map [here](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802) to see the data aggregated for each ward.
 
 ## Discussion
 
@@ -262,3 +262,9 @@ A closer examination of the two maps provides us with more insights into the vul
 In conclusion, many of the urban poor in Africa face growing problems of severe flooding. Increased storm frequency and intensity related to climate change are exacerbated by such local factors as the growing occupation of floodplains, inadequate waste management, and high population density. The city of Dar es Salaam is an example of such kind.  Households are densely congregated in the city enter, some even on the flood plain. Water amenities are unevenly distributed and inadequate. Citizens acknowledge the lack of capacity of public water providers to provide adequate services and resort to informal and private efforts. To increase Dar es Salaam’s resilience to flood hazard and ameliorate water accessibility crisis, there should greater emphasis on water amenities development and building robust disaster relief management plan: human settlements should be avoided on floodplain, flood storage should be incorporated into reservoirs, etc.
 
 ## References
+
+Mapunda, D. W., S. S. Chen, and C. Yu. 2018. The role of informal small-scale water supply system in resolving drinking water shortages in peri-urban Dar Es Salaam, Tanzania. Applied Geography 92:112–122. https://linkinghub.elsevier.com/retrieve/pii/S014362281730752X
+
+Nganyanyuka, K., J. Martinez, A. Wesselink, J. H. Lungo, and Y. Georgiadou. 2014. Accessing water services in Dar es Salaam: Are we counting what counts? Habitat International 44:358–366. https://linkinghub.elsevier.com/retrieve/pii/S019739751400112X
+
+Smiley, S. L. 2013. Complexities of water access in Dar es Salaam, Tanzania. Applied Geography 41:132–138. https://linkinghub.elsevier.com/retrieve/pii/S0143622813000854 
