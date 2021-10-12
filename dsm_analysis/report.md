@@ -18,7 +18,7 @@ Many developing countries are facing water accessibility crisis under climate ch
 
 ## Introduction
 
-![sdg](assets/water.jpg)
+
 
 Water is an essential resource for life, and whose adequate access is recognized as basic a human right under the [United Nations’ Sustainable Development Goal](https://www.unwater.org/water-facts/human-rights/). While water access is generally measured by the distance to a source of water, this concept overlooks important issues such as the reliability, quality, and quantity. In many developing countries, citizen’s access to reliable and safe water remains a challenge, and the reality gets more disheartening when the issue of water quality is considered. The city of Dar es Salaam in Tanzania manifests one of these water accessibility crises. A significant proportion of Dar es Salaam’s population has no adequate access to water supply because of old infrastructure and poor public services. This problem is compounded by the increase in population density and informal settlements. Concurrently, the city is vulnerable to natural hazards, especially flood, that contaminates the already fragile and unstable water supply system. Although solving this crisis in Dar es Salaam is a time-consuming and thorny process that requires efforts from multiple sources, it is always helpful to first identify the crisis and visualize its spatial patterns to allow for future planning, resource allocation, and resilience building. This leads to the guiding question of this analysis: What percentage of households in each administrative wards in Dar es Salaam have their access to the nearest water amenity affected during flood?
 
@@ -39,7 +39,8 @@ A full description of how each step is achieved can be found in the next section
 
 ### Data and variables
 
-Describe the **data sources** and **variables** to be used.
+
+
 
 ### Geographic characteristics
 
