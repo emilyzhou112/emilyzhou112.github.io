@@ -15,7 +15,7 @@ Many developing countries are facing water accessibility crisis under climate ch
 
 *Vulnerability and Resilience, Water Accessibility, Flood Hazard, Dar es Salaam*
 
-### Important Links
+### Important links
 
 [Research Compendia](https://github.com/emilyzhou112/Dar-Es-Salaam-Resilience)  
 
@@ -176,7 +176,7 @@ WHERE st_intersect(water_amenity.geom, flood_divide.geom);
 To better answer the **second question**, it is essential that we provide background information on “Voronoi Polygon”, a tool that we use to create service area. In GIS, voronoi polygon is a systematic way to divide spaces into a number of regions using a set of points. For each point there will be a corresponding region that consists of the points closer to that point than any other. This matches our expectation for service area. Yet, using [voronoi polygon](https://postgis.net/docs/ST_VoronoiPolygons.html) in PostGIS is tricky in the sense that the function takes a collection of geometry. That is to say, when feeding a table of point into *st_voronoipolygons*, we need to combine all the points into a multipoint using *[st_collect](https://postgis.net/docs/ST_Collect.html)*, a function that combine points without performing any spatial operations such as would happen with *[st_union](https://postgis.net/docs/ST_Union.html)*.
 
 The voronoi polygon function also takes two additional inputs: tolerance and extend_to. We need to use the extent of the ward layer as the geometric extent for our polygons.
-Since the output of this voronoi polygon function is a geometry collection of polygons. While our expectation is to have each service area to stand as individual features, we further wrap the entire function with another function, [st_dump](https://postgis.net/docs/ST_Dump.html), that converts a multi-part feature to single-part feature. NOTE: make sure you wrap the  function with another bracket and add *“.geom”* outside the bracket to type cast geometries and to ensure it functions properly.
+Since the output of this voronoi polygon function is a geometry collection of polygons. While our expectation is to have each service area to stand as individual features, we further wrap the entire function with another function, *[st_dump](https://postgis.net/docs/ST_Dump.html)*, that converts a multi-part feature to single-part feature. NOTE: make sure you wrap the  function with another bracket and add *“.geom”* outside the bracket to type cast geometries and to ensure it functions properly.
 
 As we will be using the information of whether the water amenity in a particular service area is affected by flood, it is essential to include the name and flood status of each water amenity in this new service area table. Instead of having several tables, we make this process of creating voronoi polygons a subquery so that we could use the main query for selecting useful attributes from the water amenity table.
 
@@ -247,6 +247,7 @@ The impact of flood on water accessibility is uneven across space. Demographical
 A couple of wards are of particular interests in the choropleth map. For example, Tandale is one of the wards in Dar es Salaam where households’ water access is severely affected during flood: this ward is densely populated and as much as 65% of all households in Tandale will have their water access cut off during flood. Wazo exemplifies a costal ward where over 50% of households do not have access to clean water during flood, although it is less densely populated. Nevertheless, not all populated wards are equally vulnerable to flood: ward Azimio is located in the vicinity of river channel and is densely populated. Calculations show, however, that households’ water access in this ward are not affected by flood.
 
 You may use this Leaflet web map [here](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802) to see the data aggregated for each ward.
+You may download a copy of the maps above at [here](dsm_pdf1-01.pdf) and [here](dsm_pdf2.pdf).
 
 ## Discussion
 
@@ -267,4 +268,4 @@ Mapunda, D. W., S. S. Chen, and C. Yu. 2018. The role of informal small-scale wa
 
 Nganyanyuka, K., J. Martinez, A. Wesselink, J. H. Lungo, and Y. Georgiadou. 2014. Accessing water services in Dar es Salaam: Are we counting what counts? Habitat International 44:358–366. https://linkinghub.elsevier.com/retrieve/pii/S019739751400112X
 
-Smiley, S. L. 2013. Complexities of water access in Dar es Salaam, Tanzania. Applied Geography 41:132–138. https://linkinghub.elsevier.com/retrieve/pii/S0143622813000854 
+Smiley, S. L. 2013. Complexities of water access in Dar es Salaam, Tanzania. Applied Geography 41:132–138. https://linkinghub.elsevier.com/retrieve/pii/S0143622813000854
