@@ -17,8 +17,9 @@ Many developing countries are facing water accessibility crisis under climate ch
 
 ### Important Links
 
-[Research Compendia](https://github.com/emilyzhou112/Dar-Es-Salaam-Resilience)
-[Leaflet Map](file:///Users/emilyz/Documents/GitHub/Dar-Es-Salaam-Resilience/results/other/qgis2web_2021_10_10-16_18_22_680939/index%20copy%202.html#10/-6.8739/39.2805)
+[Research Compendia](https://github.com/emilyzhou112/Dar-Es-Salaam-Resilience)  
+
+[Leaflet Map]
 
 ## Introduction
 
@@ -63,13 +64,11 @@ WHERE amenity ILIKE 'drinking_water'
 OR amenity ILIKE 'water_point'
 OR man_made ILIKE 'water_well'
 OR man_made ILIKE 'water_tap';
-
 ```
 
 The same process applies to any polygon features that qualify as water amenities. As contributors to OSM are not consistent upon the geometry they use to represent the same feature. We need to ensure that the analysis is inclusive of all water amenities.
 
 ```sql
-
 CREATE TABLE waterpoly AS
 SELECT osm_id, st_transform(way,32737)::geometry(polygon,32737) as geom, name, amenity, man_made
 FROM planet_osm_polygon
@@ -77,7 +76,6 @@ WHERE amenity ILIKE 'drinking_water'
 OR amenity ILIKE 'water_point'
 OR man_made ILIKE 'water_well'
 OR man_made ILIKE 'water_tap' ;
-
 ```
 
 Having two separate tables with different geometries representing water amenities is not efficient for analysis, especially for comparing with other features. Hence, we convert water polygons into points using the centroids tool and subsequently union it with the point layer to create a composite point layer for water amenities.
@@ -87,7 +85,6 @@ CREATE TABLE water_amenity AS
 SELECT osm_id, geom, name FROM waterpoint
 UNION
 SELECT osm_id, st_centroid(geom)::geometry(point,32737) as geom, name FROM waterpoly
-
 ```
 
 **Secondly**, we need to select the residential buildings in Dar es Salaam. Residential buildings are defined here as any point or polygon that is NOT listed as an amenity and has a building tag of ‘yes’ or ‘residential’. We repeat the same process as we have done to water amenities here by first selecting and extracting all points and polygon in Dar es Salaam that are residential buildings.
@@ -135,7 +132,6 @@ CREATE TABLE res AS
 SELECT osm_id, geom, building FROM respoint
 UNION
 SELECT osm_id, st_centroid(geom)::geometry(point,32737) as geom, building FROM respoly
-
 ```
 
 **Thirdly**, the geometric complexity of the current flood zones will slow down the process for any vector overlay analysis we wish to conduct. Let’s divide the flood layer into smaller components to simplify the geometry.
@@ -201,7 +197,6 @@ SELECT res.building, service_area.name, service_area.isflood, st_intersection(re
 FROM res
 LEFT JOIN service_area
 ON st_intersects(res.geom, service_area.geom);
-
 ```
 
 At this point, we could execute the following query to count the total number of households whose access to water is affected during flood.
@@ -251,7 +246,7 @@ The impact of flood on water accessibility is uneven across space. Demographical
 
 A couple of wards are of particular interests in the choropleth map. For example, Tandale is one of the wards in Dar es Salaam where households’ water access is severely affected during flood: this ward is densely populated and as much as 65% of all households in Tandale will have their water access cut off during flood. Wazo exemplifies a costal ward where over 50% of households do not have access to clean water during flood, although it is less densely populated. Nevertheless, not all populated wards are equally vulnerable to flood: ward Azimio is located in the vicinity of river channel and is densely populated. Calculations show, however, that households’ water access in this ward are not affected by flood.
 
-You may use this Leaflet web map [here](file:///Users/emilyz/Documents/GitHub/Dar-Es-Salaam-Resilience/results/other/qgis2web_2021_10_10-16_18_22_680939/index%20copy%202.html#10/-6.8739/39.2805) to see the data aggregated for each ward.
+You may use this Leaflet web map [here] to see the data aggregated for each ward.
 
 ## Discussion
 
