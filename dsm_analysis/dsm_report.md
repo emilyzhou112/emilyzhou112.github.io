@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Water Amenity Accessibility in Dar es Salaam Under Flood Scenario
+title: Water Amenity Accessibility Under Flood Scenario in Dar es Salaam
 ---
 
 Emily Zhou, Middlebury College  
@@ -11,6 +11,8 @@ Version 1.0 | Created 2021-10-07 | Last Updated 2021-10-11
 
 Many developing countries are facing water accessibility crisis under climate change. Structural poverty, high population density, poor municipal infrastructure, and factors of many other kinds have been continuously compounding this problem. This analysis examines resilience and vulnerability to flood in the city of Dar es Salaam in terms of households’ access to water amenities. Using data from Resilience Academy and Open Street Map, the analysis demonstrates that significant number of households in Dar es Salaam do not have access to water during flood. It also illustrates how uneven population and water amenity distribution are the primary reason responsible for such vulnerability.
 
+[![tz](dsm_title.jpg)](https://water.org/our-impact/where-we-work/tanzania/)
+
 ### Keywords
 
 *Vulnerability and Resilience, Water Accessibility, Flood Hazard, Dar es Salaam*
@@ -18,14 +20,13 @@ Many developing countries are facing water accessibility crisis under climate ch
 ### Important links
 
 [Research Compendia](https://github.com/emilyzhou112/Dar-Es-Salaam-Resilience)  
-
 [Leaflet Map](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802)
 
 ## Introduction
 
-![water](water.jpg)
-
 Water is an essential resource for life, and whose adequate access is recognized as basic a human right under the [United Nations’ Sustainable Development Goal](https://www.unwater.org/water-facts/human-rights/). While water access is generally measured by the distance to a source of water, this concept overlooks important issues such as the reliability, quality, and quantity. In many developing countries, citizen’s access to reliable and safe water remains a challenge, and the reality gets more disheartening when the issue of water quality is considered. The city of Dar es Salaam in Tanzania manifests one of these water accessibility crises. A significant proportion of Dar es Salaam’s population has no adequate access to water supply because of old infrastructure and poor public services. This problem is compounded by the increase in population density and informal settlements. Concurrently, the city is vulnerable to natural hazards, especially flood, that contaminates the already fragile and unstable water supply system. Although solving this crisis in Dar es Salaam is a time-consuming and thorny process that requires efforts from multiple sources, it is always helpful to first identify the crisis and visualize its spatial patterns to allow for future planning, resource allocation, and resilience building. This leads to the guiding question of this analysis: What percentage of households in each administrative wards in Dar es Salaam have their access to the nearest water amenity affected during flood?
+
+![water](water.jpg)
 
 ## Study design
 
@@ -246,7 +247,7 @@ The impact of flood on water accessibility is uneven across space. Demographical
 
 A couple of wards are of particular interests in the choropleth map. For example, Tandale is one of the wards in Dar es Salaam where households’ water access is severely affected during flood: this ward is densely populated and as much as 65% of all households in Tandale will have their water access cut off during flood. Wazo exemplifies a costal ward where over 50% of households do not have access to clean water during flood, although it is less densely populated. Nevertheless, not all populated wards are equally vulnerable to flood: ward Azimio is located in the vicinity of river channel and is densely populated. Calculations show, however, that households’ water access in this ward are not affected by flood.
 
-You may use this Leaflet web map [here](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802) to see the data aggregated for each ward.
+You may use this Leaflet web map [here](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802) to see the data aggregated for each ward.  
 You may download a copy of the maps above at [here](dsm_pdf1-01.pdf) and [here](dsm_pdf2.pdf).
 
 ## Discussion
