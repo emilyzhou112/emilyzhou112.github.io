@@ -31,4 +31,4 @@ This website is a documentation of GIS analyses, course reflections, and other c
 
 
 ## GIS Analyses
-- [Water Amenity and Flood Hazard Vulnerability in Dar es Salaam](dsm_analysis/dsm_report.md)
+- [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam](dsm_analysis/dsm_report.md)
