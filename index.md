@@ -17,7 +17,7 @@ This website is a documentation of GIS analyses, course reflections, and other c
 
 
 > It might be boring to count how many islands are above on the *Thousand Island Lake*
-> but never dull to learn how techniques used in **GIS researches** and **effective spatial planning** have played a significant role in ensuring drinking water supply for millions of people.
+> but never dull to learn how techniques used in GIS researches and effective spatial planning have played a significant role in ensuring drinking water supply for millions of people.
 
 
 
