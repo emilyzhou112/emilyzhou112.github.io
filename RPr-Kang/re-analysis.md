@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reproduction of Covid-19 Healthcare Spatial Accessibility in Chicago, Illinois
+title: RP- Spatial Accessibility of Covid-19 Healthcare Resources in Illinois
 ---
 
 Emily Zhou, Middlebury College
