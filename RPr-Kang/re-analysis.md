@@ -13,11 +13,11 @@ Created 2021-10-28 | Last Updated 2021-11-4
 
 **Original Research Material Available at**: [COVID-19AccessibilityNotebook](https://github.com/cybergis/COVID-19AccessibilityNotebook)
 
-**Reproduction Material Available at**:[RPr-Kang-2020](https://github.com/emilyzhou112/RPr-Kang-2020/blob/main/procedure/code/02-COVID-19Acc-Original-Copy1.ipynb)
+**Reproduction Material Available at**: [RPr-Kang-2020](https://github.com/emilyzhou112/RPr-Kang-2020/blob/main/procedure/code/02-COVID-19Acc-Original-Copy1.ipynb)
 
 **Useful Links**: [CyberGISx](https://cybergisxhub.cigi.illinois.edu/), [WhereCOVID-19](https://wherecovid19.cigi.illinois.edu/#7/40.926/-88.912/Dark_Mode-il_county_case/568)
 
-![covid](covid.png)
+![covid](covid1.png)
 
 ## Introduction
 
@@ -289,5 +289,5 @@ However, in terms of the degree of ICU access, the dark-shaded grids are of smal
 
 The major outcome of our modification to the original analysis manifested here is the differences in the extent of high-accessibility areas. The maps certainly illustrate a redistribution of resource accessibility in Chicago: it is certainly true that central Chicago has the highest accessibility in both analyses but results from re-analysis display lower accessibility along the border of Chicago. Since populations living in the vicinity of Chicago were excluded in the original analysis while the hospitals there were included, the potential of these hospitals were erroneously over-estimated. This is because Chicago residents might only represent a small portion of patients that these hospitals. Therefore, this justifies why areas at the northern and western border of Chicago display higher accessibility.
 
-### Conclusions
-Kang et al.’s study is a prominent one which exemplifies how studies that are reproducible could establish the credibility of current knowledge and facilitates the production of new knowledge. As a Covid-19 research in specific, it provides important insights into the spatial disparity of healthcare resources access in Chicago/Illinois so that policy makers could make informed decisions as to how resources should be allocated fairly during the pandemic. As a reproducible research in general, it allows other researchers to apply the same method to different areas of interests so that the healthcare accessibility crisis could be efficiently addressed across space. On top of that, by providing the code and data, it allows for further improvements on the original study in terms of the intelligibility of the code/workflow and the efficiency of the workflow, etc. For example, the differences in results obtained from this study and our re-analysis highlight the significance of “boundary effects” on influencing the outcome of research. In short, as a reproducible study on health geographies, this study would continue to be a valuable teaching and learning material for reproducible research and serve as an important material for future research looking for methods to measure spatial accessibility. 
+## Conclusions
+Kang et al.’s study is a prominent one which exemplifies how studies that are reproducible could establish the credibility of current knowledge and facilitates the production of new knowledge. As a Covid-19 research in specific, it provides important insights into the spatial disparity of healthcare resources access in Chicago/Illinois so that policy makers could make informed decisions as to how resources should be allocated fairly during the pandemic. As a reproducible research in general, it allows other researchers to apply the same method to different areas of interests so that the healthcare accessibility crisis could be efficiently addressed across space. On top of that, by providing the code and data, it allows for further improvements on the original study in terms of the intelligibility of the code/workflow and the efficiency of the workflow, etc. For example, the differences in results obtained from this study and our re-analysis highlight the significance of “boundary effects” on influencing the outcome of research. In short, as a reproducible study on health geographies, this study would continue to be a valuable teaching and learning material for reproducible research and serve as an important material for future research looking for methods to measure spatial accessibility.
