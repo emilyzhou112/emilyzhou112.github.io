@@ -17,7 +17,7 @@ Created 2021-10-28 | Last Updated 2021-11-4
 
 **Useful Links**: [CyberGISx](https://cybergisxhub.cigi.illinois.edu/), [WhereCOVID-19](https://wherecovid19.cigi.illinois.edu/#7/40.926/-88.912/Dark_Mode-il_county_case/568)
 
-![covid](covid1.png)
+![scientists](scientists.jpeg)
 
 ## Introduction
 
