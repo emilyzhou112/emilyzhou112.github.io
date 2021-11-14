@@ -29,6 +29,7 @@ This website is a documentation of GIS analyses, course reflections, and other c
 - [Reproducibility and Replicability in Geography](r_r)
 - [Error and Uncertainty in GIS](error_uncertainty)
 - [Learning Spatial Analysis in CyberGIS environment](cybergis)
+- [Uncertainty Analysis in Vulnerability Research](vulnerability)
 
 
 ## GIS Analyses
