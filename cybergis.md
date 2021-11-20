@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Spatial Analysis in CyberGIS environment
+title: Learning Spatial Analysis in CyberGIS Environment
 ---
 
 What are the fundamental differences between conducting spatial analytical research on a CyberGIS environment and desktop GIS soft wares? From the perspective of Wang, **the answer lies in part in the scope that each mode of research entails and the possibilities they have brought to the scientific community**. Cyber infrastructures, he argues, is in analogous to large-scale physical infrastructures of roads, bridges, and water systems that support modern society. It serves as *a digital ecosystem that host high-performance computers, data-intensive knowledge systems, and information technologies*, which innovates research, education, scholarships: mainly all kinds of activities in the academia.
