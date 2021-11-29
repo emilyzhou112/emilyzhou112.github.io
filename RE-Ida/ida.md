@@ -45,13 +45,13 @@ The content analysis used text mining for identifying important terms and term c
 ![content](IMG_8804.JPG)
 *Figure 2: Content analysis-word frequency and word cluster in Wang's original study*
 
-## First Replication study
+## First Replication Study
 
 Holler’s replication study followed Wang et al’s methods but instead searches for tweet content with keywords `hurricane, dorian, or sharpiegate`. In this replication study, several modifications were made to Wang’s original study. In the content analysis section, instead of visualizing term clusters, Holler chose to map word association. This was done by separating tweets into individual tokens and count the frequency of word-pair occurrence. Using the `ggraph` function, the product is a word network of tweets where the space between words indicates their association. In the spatial analysis section, Holler first combine the population density map and tweet point location map onto a single layout: population density is mapped with a choropleth and overlayed with point data of tweets. A tweet density map is also created based on the number of tweets per 10000 population as a way to visualize tweet clusters.
 
 Then, Holler modified the methodology for normalizing tweet data by creating a normalized tweet difference index (NDTI) and subsequently used this methodology to test for spatial clustering/hotspot mapping with the [Getis-Ord statistics](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/h-how-hot-spot-analysis-getis-ord-gi-spatial-stati.htm). The concept of NDTI is in analogous to [normalized difference vegetation index (NDVI)](https://gisgeography.com/ndvi-normalized-difference-vegetation-index/) used in remote sensing, which quantifies vegetation by measuring the difference between near-infrared (which vegetation strongly reflect) and red light (which vegetation absorbs) on a scale that ranges from -1 to 1. Here, we could simply interpret counties assigned with a NDTI closer to one has a higher number of hurricane-related tweets.
 
-## Materials and methods
+## Materials and Methods
 
 Our replication study on Hurricane Ida follows the same methodology as Wang and Holler’s work and used the follow data:  
 
@@ -300,7 +300,9 @@ legend <- bi_legend(pal = "DkCyan", dim = 2,
 finalPlot <- ggdraw() +
     draw_plot(map, 0, 0, 1, 1) +
     draw_plot(legend, 0.6, 0.2, 0.2, 0.2)
-```
+```  
+
+
 
 ## Results and Discussions
 
@@ -343,7 +345,7 @@ The hotspot map supports this finding, revealing two major hotspots as Hurricane
 ![hotspots](hotspots.png)
 *Figure 9: Tweet hotspots for Hurricane Ida*
 
-### VGI applications
+### VGI Applications
 
 When replicating the map that visualizes the location of tweets along with population density, I noticed that tweets are more prevalent in counties with a higher population density. This is not an exciting finding as it is pretty intuitive that more populated county generates more tweets. Yet, this leads me to think about ways in which we could make this map more illustrative, informative, and most importantly, useful in the context of adapting to natural hazards. For example, could we identify where people appear to be more vulnerable to natural hazards and where people need help?
 
@@ -361,4 +363,4 @@ Despite the useful information conveyed by this map, let’s discuss the uncerta
 
 ## Conclusions
 
-In conclusions, social media in the context of studying natural hazards is more about the “sociology” and “psychology” rather than the “technology”. This replication study corroborates Holler’s replication and Wang’s original work by demonstrating the possibilities and capacities of using VGI to better understand and gain a humanistic perspective of hazard events. Through temporal, spatial, and content analysis of Hurricane Ida, we are further convinced by this replication study that the interest in hazards gradually fades away, despite that the effect of hazard is long-lasting; The topics that people tweet most often are centered around describing the strength, location, and severity of the disaster; Tweets tend to concentrate in areas that are most severely affected by the disaster. On top of that, sentiment analysis reveals that negative words far exceed positive words when people speak about a hazard event and the mapping of content-specific tweets with vulnerable population opens up new possibilities to make use of social media data. Meanwhile, as we walk through each individual steps of the study, we are also becoming aware of the limitations of twitter data and the ubiquity of uncertainty that accumulates and propagates along with the study.
+In conclusion, social media in the context of studying natural hazards is more about the “sociology” and “psychology” rather than the “technology”. This replication study corroborates Holler’s replication and Wang’s original work by demonstrating the possibilities and capacities of using VGI to better understand and gain a humanistic perspective of hazard events. Through temporal, spatial, and content analysis of Hurricane Ida, we are further convinced by this replication study that the interest in hazards gradually fades away, despite that the effect of hazard is long-lasting; The topics that people tweet most often are centered around describing the strength, location, and severity of the disaster; Tweets tend to concentrate in areas that are most severely affected by the disaster. On top of that, sentiment analysis reveals that negative words far exceed positive words when people speak about a hazard event and the mapping of content-specific tweets with vulnerable population opens up new possibilities to make use of social media data. Meanwhile, as we walk through each individual steps of the study, we are also becoming aware of the limitations of twitter data and the ubiquity of uncertainty that accumulates and propagates along with the study.
