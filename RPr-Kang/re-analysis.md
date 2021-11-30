@@ -13,7 +13,7 @@ Created 2021-10-28 | Last Updated 2021-11-4
 
 **Original Research Material Available at**: [COVID-19AccessibilityNotebook](https://github.com/cybergis/COVID-19AccessibilityNotebook)
 
-**Reproduction Material Available at**: [RPr-Kang-2020](https://github.com/emilyzhou112/RPr-Kang-2020/blob/main/procedure/code/02-COVID-19Acc-Original-Copy1.ipynb)
+**Reproduction Material Available at**: [RPr-Kang-2020](https://github.com/emilyzhou112/RPr-Kang-2020)
 
 **Useful Links**: [CyberGISx](https://cybergisxhub.cigi.illinois.edu/), [WhereCOVID-19](https://wherecovid19.cigi.illinois.edu/#7/40.926/-88.912/Dark_Mode-il_county_case/568)
 
