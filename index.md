@@ -7,7 +7,7 @@ title: Main Page
 
 Hi! My name is Emily and welcome to my Open Source GIS portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
 
-This website is a documentation of GIS analyses, course reflections, and other cartographic works that I have done for [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler as well as other relevant project works from geography classes at Middlebury.  
+This website is a documentation of GIS analyses, course reflections, and other cartographic works that I have done for [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler at Middlebury.  
 
 ![Lake](assets/IMG_7528.JPG)
 *Thousand Island Lake, Chun'an, China (05/29/21)*
@@ -34,6 +34,6 @@ This website is a documentation of GIS analyses, course reflections, and other c
 
 
 ## GIS Analyses
-- [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam](dsm_analysis/dsm_report.md)
+- [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](dsm_analysis/dsm_report.md)
 - [Reproduction of Covid-19 Healthcare Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
