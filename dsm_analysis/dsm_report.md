@@ -20,7 +20,7 @@ Many developing countries are facing water accessibility crisis under climate ch
 ### Important links
 
 [Research Compendia](https://github.com/emilyzhou112/Dar-Es-Salaam-Resilience)  
-[Leaflet Map](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802)
+[Water Amenity Accessibility Under Flood Scenario in Dar es Salaam](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802)
 
 ## Introduction
 
@@ -95,34 +95,14 @@ CREATE TABLE respoint AS
 SELECT osm_id,  st_transform(way,32737)::geometry(point,32737) as geom, building, amenity
 FROM planet_osm_point
 WHERE amenity IS NULL
-AND building IS NOT NULL;
-
-ALTER TABLE respoint
-ADD COLUMN is_res boolean;
-
-UPDATE respoint
-SET is_res = TRUE
-WHERE building ILIKE 'yes' OR building ILIKE 'residential';
-
-DELETE FROM respoint
-WHERE is_res IS NULL;
+AND (building ILIKE 'yes' OR building ILIKE 'residential')
 
 
 CREATE TABLE respoly AS
 SELECT osm_id,  st_transform(way,32737)::geometry(polygon,32737) as geom, building, amenity
 FROM planet_osm_polygon
 WHERE amenity IS NULL
-AND building IS NOT NULL;
-
-ALTER TABLE respoly
-ADD COLUMN is_res boolean;
-
-UPDATE respoly
-SET is_res = TRUE
-WHERE building ILIKE 'yes' OR building ILIKE 'residential';
-
-DELETE FROM respoly
-WHERE is_res IS NULL;
+AND (building ILIKE 'yes' OR building ILIKE 'residential')
 ```
 
 Then, we convert residential building polygons into points and union it with the point layer to create a composite point layer representing all households.
@@ -246,7 +226,7 @@ The impact of flood on water accessibility is uneven across space. Demographical
 
 A couple of wards are of particular interests in the choropleth map. For example, Tandale is one of the wards in Dar es Salaam where households’ water access is severely affected during flood: this ward is densely populated and as much as 65% of all households in Tandale will have their water access cut off during flood. Wazo exemplifies a costal ward where over 50% of households do not have access to clean water during flood, although it is less densely populated. Nevertheless, not all populated wards are equally vulnerable to flood: ward Azimio is located in the vicinity of river channel and is densely populated. Calculations show, however, that households’ water access in this ward are not affected by flood.
 
-You may use the Leaflet web map [here](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802) to see data aggregated for each ward.  
+You may use the web map [here](https://emilyzhou112.github.io/dsm_analysis/qgis2web_2021_10_10-16_18_22_680939/index-copy.html#11/-6.8081/39.2802) to see data aggregated for each ward.  
 You may download a copy of the maps above at [here](dsm_pdf1-01.pdf) and [here](dsm_pdf2.pdf).
 
 ## Discussion
@@ -255,7 +235,7 @@ A closer examination of the two maps provides us with more insights into the vul
 
 **Secondly**, population is also unevenly distributed, with wards in city center being much more densely populated. Even though water amenities are more often found in urban wards, it is unlikely that access to clean and safe water is ensured for all households even without the presence of flood. Consequently, the flood would only exacerbate existing problems.   
 
-**Thirdly**, it is important to acknowledge here that results obtained from this analysis is only an underestimation of water accessibility vulnerability in Dar es Salaam. The water amenities queried from OSM in this analysis does not fully summarized water sources for households in Dar es Salaam. As piped water service is extremely unreliable and characterized by extensive rationing and low pressures, households rely on various sources of water. This includes drilling private deep wells, installing water pumps and reserve tanks, buying water from vendors, neighbors, and mosques, and even stealing and installing illegal pipes (Mapunda et al. 2018). Since OSM is an open- source platform, it is unfeasible for us to know whether private wells and reserve tanks are mapped, nor is it possible for us to conclude how water accessed from vendors, both legal and illegal, would be affected during flood.
+**Thirdly**, it is important to acknowledge here that results obtained from this analysis is only an underestimation of water accessibility vulnerability in Dar es Salaam. The water amenities queried from OSM in this analysis does not fully summarize water sources for households in Dar es Salaam. As piped water service is extremely unreliable and characterized by extensive rationing and low pressures, households rely on various sources of water. This includes drilling private deep wells, installing water pumps and reserve tanks, buying water from vendors, neighbors, and mosques, and even stealing and installing illegal pipes (Mapunda et al. 2018). Since OSM is an open- source platform, it is unfeasible for us to know whether private wells and reserve tanks are mapped, nor is it possible for us to conclude how water accessed from vendors, both legal and illegal, would be affected during flood. On top of that, Dar es Salaam is a rapidly growing city and the water sector is informal and unstable in many ways, meaning that the quality of our data is also not consistent over time.
 
 
 ## Conclusions
@@ -264,8 +244,8 @@ In conclusion, many of the urban poor in Africa face growing problems of severe 
 
 ## References
 
-Mapunda, D. W., S. S. Chen, and C. Yu. 2018. The role of informal small-scale water supply system in resolving drinking water shortages in peri-urban Dar Es Salaam, Tanzania. Applied Geography 92:112–122. https://linkinghub.elsevier.com/retrieve/pii/S014362281730752X
+Mapunda, D. W., S. S. Chen, and C. Yu. 2018. The role of informal small-scale water supply system in resolving drinking water shortages in peri-urban Dar Es Salaam, Tanzania. Applied Geography 92:112–122. [https://linkinghub.elsevier.com/retrieve/pii/S014362281730752X](https://www.sciencedirect.com/science/article/abs/pii/S014362281730752X?via%3Dihub)
 
-Nganyanyuka, K., J. Martinez, A. Wesselink, J. H. Lungo, and Y. Georgiadou. 2014. Accessing water services in Dar es Salaam: Are we counting what counts? Habitat International 44:358–366. https://linkinghub.elsevier.com/retrieve/pii/S019739751400112X
+Nganyanyuka, K., J. Martinez, A. Wesselink, J. H. Lungo, and Y. Georgiadou. 2014. Accessing water services in Dar es Salaam: Are we counting what counts? Habitat International 44:358–366. [https://linkinghub.elsevier.com/retrieve/pii/S019739751400112X](https://www.sciencedirect.com/science/article/abs/pii/S019739751400112X?via%3Dihub)
 
-Smiley, S. L. 2013. Complexities of water access in Dar es Salaam, Tanzania. Applied Geography 41:132–138. https://linkinghub.elsevier.com/retrieve/pii/S0143622813000854
+Smiley, S. L. 2013. Complexities of water access in Dar es Salaam, Tanzania. Applied Geography 41:132–138. [https://linkinghub.elsevier.com/retrieve/pii/S0143622813000854](https://www.sciencedirect.com/science/article/pii/S0143622813000854?via%3Dihub)
