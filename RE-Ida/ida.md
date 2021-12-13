@@ -5,7 +5,7 @@ title: RE- Spatial, Temporal, and Content Analysis of Twitter for Natural Hazard
 
 Emily Zhou, Middlebury College
 
-Created 2021-11-26 | Last Updated 2021-11-29
+Created 2021-11-26 | Last Updated 2021-12-12
 
 **Replication of**: Spatial, Temporal, and, Content Analysis of Twitter for Wildfire Hazards
 
@@ -37,13 +37,8 @@ Taking advantages of the code provided by Holler’s replication and the knowled
 
 Wang et al’s original study uses Twitter search API to collect wildfire-related tweets.  The collection entails two phases: in the first phase, any tweets that contained either of the two keywords, fire or wildfire, were included while the second phase extracted wildfire tweets at specific locations: San Marcos and Bernadro. The temporal analysis is achieved through plotting the number of wildfire related tweets along the timeline from May 13, 2014 to May 22, 2014. The spatial analysis first visualized the distribution of geotagged fire and wildfire tweets and then the population density of each county in the areas of interest. One specific method that Wang et al used in their spatial analysis is the [kernel density estimation (KDE)](https://en.wikipedia.org/wiki/Kernel_density_estimation), which is used to detect hot spots of spatial point data. KDE imports the coordinates of tweets and exports a raster formatted map where each cell was assigned a value to represent the intensity level, where concentrated cells with intensive values are hotspots. Here, to deal with the impact of population, Wang applied a dual KDE to map the spatial patterns of tweets associated with two specific wildfires.
 
-![kde](kde.png)
-*Figure 1: Hotspot analysis using dual KDE in Wang's original study*
-
 The content analysis used text mining for identifying important terms and term clusters in wildfire-related tweets taking advantage of the `tm` package in R ver 3.1.2. After cleaning the raw tweets to remove URLs and stop words and convert a word’s different morphological variants to the word’s base form, the results were first visualized in a bar plot showing the frequency of words to check their variation in importance. Then, to identify the conversational topics related to wildfire, Wang employed k-means clustering methods to identify clusters where terms appeared in the same group, where terms appeared frequently in the same document were grouped into one cluster. This was organized into a table format.
 
-![content](IMG_8804.JPG)
-*Figure 2: Content analysis-word frequency and word cluster in Wang's original study*
 
 ## First Replication Study
 
@@ -309,55 +304,55 @@ finalPlot <- ggdraw() +
 The **temporal distribution** of Hurricane Ida related tweets declines steadily over time, with two major spikes in tweets happening on Aug 29th and Sep 2nd. This is probably because Hurricane Ida first hits the gulf coast of Louisiana on August 29, as a powerful Category 4 storm, which justifies the highest spike in the figures. Then, the hurricane moved across the northeastern states, weakening into a post-tropical cyclone, and dumped rainfall on New York, New Jersey, and Pennsylvania on Sep 1st, which resulted in a resurge of tweet activity on the following day.
 
 ![temp](temp.png)
-*Figure 3: Temporal analysis of Hurricane Ida tweets*
+*Figure 1: Temporal analysis of Hurricane Ida tweets*
 
 Recalling from [Crawford and Finn](https://link.springer.com/article/10.1007%2Fs10708-014-9597-z) (2014)’s article on the challenges of using social and mobile data to understand disasters, the temporality of social media data creates a barrier for us to fully understand the impact of a disaster. The figure exemplifies how ontological limitation of VGI arise in our analysis: As we see how the number of tweets decreases over time here, the attention of the public is gone soon after the disaster, despite the fact the aftermath of Hurricane Ida covers a much longer time span.
 
 The **content analysis** reveals that the most common words among the first three searches are “louisiana”, “storm”, “people”, “orleans”, “power”, and “flooding”, namely words that convey location information and describe the hurricane. Yet, when using the fourth search to make this bar plot, it appears that “recovery”, “electricity”, and “power” are new words that frequently occurred. The fourth search chose a different thematic coverage: though keywords such as “ida” and “flood” are still included, we have added “recovery” and “electricity” into the search. The fact that they became the most common words imply a shift in focus over time, suggesting that there was a rising interest in how areas have been affected and then recovered from the disaster after the hurricane has passed.
 
 ![temp](IMG_8808.JPG)
-*Figure 4: Word frequency of Hurricane Ida tweets*
+*Figure 2: Word frequency of Hurricane Ida tweets*
 
 The word association diagram reiterates and supports these findings. “Tropical”, “storm”, and “surge”, “category”, and “4” are in the same word web that occur the most frequently, which are words that people used to describe the condition and magnitude of the hurricane. Likewise, “louisiana”, “people”, “orleans”, “mississippi” are in the same word web which refers to the pathway of the hurricane. One interesting finding is the high frequency of word-pair “stay” and “safe”, which suggests that people were spreading the message about their own/others well-being in the meantime of reporting the disaster.
 
 ![network](network.png)
-*Figure 5: Word association of Hurricane Ida tweets*
+*Figure 3: Word association of Hurricane Ida tweets*
 
 An important note to make when interpreting the result of content analysis: as stated by Craw and Finn, researchers are often in a different context and location than those who were experiencing the crisis. This means that they would made inference from the tweet drawing upon their understanding and experience, which could introduce uncertainty into our analysis.
 
 The **sentiment analysis** illustrates that the frequency of negative words far exceeds that of for positive words, which is not surprising in the context of natural hazards. The analysis also further informs us the attitude and emotions of people experiencing the disaster. The mostly used negative word is “damage”, suggesting that many are concerned about the damages caused by Hurricane Ida, whereas the mostly used positive word is “safe”, showing that people are worried about their own/others safety.
 
 ![sentiment](sentiment.png)
-*Figure 6: Word sentiments of Hurricane Ida tweets*
+*Figure 4: Word sentiments of Hurricane Ida tweets*
 
 This sentiment analysis also entails a few uncertainties. The categorization of positive or negative words is subjected to the context of which the word is used. Would words such as “strong”, “top”, “pretty” be positive when used to describe hurricane in all cases? Considering the possible use of phrases such as “strong wind”, “pretty bad storm”, or “top-level water”, we should be more critical when interpreting the result. Also, drawing from one of the points made by Crawford and Finn, the analysis of social media has been accused of paying attention to only the most sensational stories. It is totally reasonable that people tend to exaggerate their situation to seek for help during disaster, but we need to be cautious when deriving conclusions from sentiment analyses of any kind as they might entail uncertainty with respect to the magnitude and severity of the event.
 
 In **spatial analysis**, the map of tweet density and tweet location demonstrates a higher prevalence of Ida-related tweets along the pathway of the hurricane, especially in Louisiana, where the hurricane first hit and caused the most devastating impact, followed by the northeast, where the hurricane hit a few days after.
 
 ![density](density.png)
-*Figure 7: Tweet density for Hurricane Ida*
+*Figure 5: Tweet density for Hurricane Ida*
 
 ![location](location.png)
-*Figure 8: Tweet location(normalized) for Hurricane Ida*
+*Figure 6: Tweet location(normalized) for Hurricane Ida*
 
 The hotspot map supports this finding, revealing two major hotspots as Hurricane Ida first affected Louisiana and then the northeast. Comparing the geographic extent of the two hotspots, it is likely evident that the hotspot centered as Louisiana covers a much wider spatial extent, implying that impact Ida has had in the south is much sever than in the northeast.
 
 ![hotspots](hotspots.png)
-*Figure 9: Tweet hotspots for Hurricane Ida*
+*Figure 7: Tweet hotspots for Hurricane Ida*
 
 ### VGI Applications
 
 When replicating the map that visualizes the location of tweets along with population density, I noticed that tweets are more prevalent in counties with a higher population density. This is not an exciting finding as it is pretty intuitive that more populated county generates more tweets. Yet, this leads me to think about ways in which we could make this map more illustrative, informative, and most importantly, useful in the context of adapting to natural hazards. For example, could we identify where people appear to be more vulnerable to natural hazards and where people need help?
 
 ![useless](useless.png)
-*Figure 10: Tweet locations and population density*
+*Figure 8: Tweet locations and population density*
 
 The inspiration of mapping “vulnerable population” comes from one of the reproduction analyses we did in class that models vulnerability in Malawi. Although the [original study](https://www.sciencedirect.com/science/article/abs/pii/S0143622814000058?via%3Dihub) for this reproduction analysis itself entails a myriad of uncertainties, the idea behind is good to learn from, which is to identity areas vulnerable to climate change so that development strategies could be planned. Applying the concept to this replication study, if we could identify populations more vulnerable to natural hazards, such as hurricane, we could subsequently use this information to take timely actions when those people are seeking help.
 
 I chose the percentages of minority populations and median income as the two vulnerability indicators. Racial minorities and low-income communities are more vulnerable in this case because of their preparedness to hazard events and the resources available and accessible to them. Using `bi_class`, a R package that I really want to explore, my bivariate choropleth shows that counties that are colored in dark grey, meaning counties with a higher percentage of minority population and a lower median income, largely overlaps with the “HELP” tweet and are mostly concentrated in Louisiana and Florida, where Ida hit first. In addition, a number of counties with higher percentages of minority populations in the northeast, also contains a substantial number of “HELP” tweets. These counties should be of particular concerns to local authorities when developing strategies to alleviate the impact of hurricane.
 
 ![biclass](biclass.png)
-*Figure 11: Vulnerable population and location of help messages*
+*Figure 9: Vulnerable population and location of help messages*
 
 Despite the useful information conveyed by this map, let’s discuss the uncertainties of this attempted approach of visualizing vulnerability drawing from Craw and Finn’s argument and Tate’s framework. **Firstly**, people seek for help in a variety of ways: some would directly type “help” in their tweets, others would describe the situation to show that they are in crisis. The “HELP” tweets looked for tweets that contain the words “help”, “emergency” (to seek help), or “flood”, “water” (to describe the situation), but it is unlikely that these search words would fully capture the help messages that people had posted. The inclusion of tweets that contain these words but are not “HELP” messages introduce noise into the analysis. **Secondly**, [Tate](https://www.tandfonline.com/doi/full/10.1080/00045608.2012.700616) articulated in his article that the measure of vulnerability is an extremely complicated and subjected process. The use of only two indicators only roughly captures the region’s vulnerability to hurricane. **Thirdly**, Craw and Finn also note that social media is not a representative sample of people’s experience during a crisis. It is more skewed to younger, wealthier, more urban, and racial majority group. This leads to a problematic emergency imaginary as population that are the most vulnerable to hazards are the impoverished and racial minorities that are underrepresented on social media. That is to say, the “HELP” tweets selected might not be posted by vulnerable population. The fact that a “HELP” tweet is within a county with a higher percentage minorities and lower median income only increase its likelihood of being posted by vulnerable population. And **lastly**, there’s ethical and privacy concern that complicates uncertainty. The “HELP” tweets are mapped using real-time location data, and this information is collected without informed consent from the sender. As many of those tweets fall into counties categorized as more vulnerable to natural hazard, if we were to protect of the privacy of these population, is there an alternative/better way of conveying the information without publicly displaying the point data?
 
