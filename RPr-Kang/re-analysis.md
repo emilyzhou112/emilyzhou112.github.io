@@ -37,6 +37,7 @@ The [original study](https://github.com/cybergis/COVID-19AccessibilityNotebook) 
 - The road network obtained from [OpenStreetMap](https://www.openstreetmap.org/#map=4/38.01/-95.84).
 - The population data for Illinois accessed from the [American Community Survey](https://www.census.gov/programs-surveys/acs).
 - The hospital data collected from the [US Homeland Infrastructure Foundation Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals/explore?location=7.501852%2C-15.457900%2C1.91).
+- Covid data that includes the number of patients. 
 - The hexagon grid is generated as a shapefile used for aggregation.
 
 After loading the libraries and importing necessary data specified above, there are several preparations still need to be done for the analysis to run. This includes (ordered sequentially):
