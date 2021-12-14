@@ -47,7 +47,7 @@ The results of our reproduction study are mostly consistent with that of from Ch
 *Figure 3: Relative risk score if calculated based on the center of the cluster*
 
 ![reproduction](assets/reproduction.png)
-*Figure 4: Relative risk score if calculated for each county in the cluser*
+*Figure 4: Relative risk score if calculated for each county in the cluster*
 
 ## Next step
 
