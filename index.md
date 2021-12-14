@@ -31,9 +31,10 @@ This website is a documentation of GIS analyses, course reflections, and other c
 - [Learning Spatial Analysis in CyberGIS Environment](cybergis)
 - [Uncertainty Analysis in Vulnerability Research](vulnerability)
 - [Applications, Limitations, and Ethical Issues in VGI](vgi)
+- [Social Inequities under Public Health Crisis](covid_disability)
 
 
 ## GIS Analyses
 - [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](dsm_analysis/dsm_report.md)
-- [Reproduction of Covid-19 Healthcare Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
+- [Reproduction of COVID-19 Healthcare Resources Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
