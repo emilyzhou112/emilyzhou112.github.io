@@ -38,3 +38,4 @@ This website is a documentation of GIS analyses, course reflections, and other c
 - [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](dsm_analysis/dsm_report.md)
 - [Reproduction of COVID-19 Healthcare Resources Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
+- [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
