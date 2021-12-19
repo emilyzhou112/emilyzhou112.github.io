@@ -202,7 +202,7 @@ The replication analysis on article languages reveals that more articles in diff
 ![f3](replication/f3.png)
 *Figure 15: Article languages for replication analysis*
 
-## Collaboration
+### Collaboration
 
 In this part of the replication, I notice that there has been an increase in the number of authors and affiliations per COVID-19 article, as compared to Homolak’s analysis. The density graph visualizes the distribution of values of our dataset, from which we could see that the distribution is skewed to the left. This means that a large proportion of the articles have less than 10 authors or affiliations. Yet, by computing the median number of authors/affiliations, it shows that the median is now greater, though not much, for COVID-19 articles than non-COVID articles and indeed increase relative to the original analysis. *This at least illustrates that collaborations on COVID-19 research have improved since then*.
 
