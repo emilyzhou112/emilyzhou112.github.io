@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R & R- Analysis of Academic Information Patterns under COVID-19
+title: R&R- Analysis of Academic Information Patterns under COVID-19
 ---
 
 Emily Zhou, Middlebury College
