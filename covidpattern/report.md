@@ -221,10 +221,10 @@ However, I decided to take a positive approach towards this barrier. To make ful
 The first part of the content analysis focuses on graphing the most frequently occurred word in article title & abstract. By selecting the abstract and title from the data frame and unnest them into individual words, it seems that in article titles, words such as **spike, infection, omicoron, variant, and vaccine** are the most frequently occurred whereas in the abstract, **omicoron** is the top word. This suggests that despite the recent discovery of the new omicoron variant, it has already elicited a rapid response among researcher for further investigate this variant, some of them even starts to publish academic papers on it. Other than the new variant, it seems that researchers have continued to devote time and interest in investigating COVID-19 vaccines, their impact on patients, and obviously the virus itself.
 
 ![f12](replication/f12.png)
-*Figure 18: Word frequency in titles*
+*Figure 18: Word frequency in the titles of the 100 most recent articles on BioRxiv*
 
 ![f13](replication/f13.png)
-*Figure 19: Word frequency in abstracts*
+*Figure 19: Word frequency in the abstracts of the 100 most recent articles on BioRxiv*
 
 The second part of the analysis focuses modeling the topics in article abstracts. [Natural Language Processing (NLP)](https://www.kaggle.com/rtatman/nlp-in-r-topic-modelling) refers to the task of automatically extracting and summarizing information from text data. Here, I tried to identify three major themes from the abstract based on informative words. Following examples online, I created the function topic_cat, which would get and plot the most informative terms by a specified number of topics (parts of it is shown below). Within this function, I used the [Latent Dirichlet allocation (LDA)](https://www.tidytextmining.com/topicmodeling.html) algorithm, the most common method for fitting a topic model and is available as `topicmodel` package in R. This algorithm treats each document as a mixture of topics, and each topic as a mixture of words, which allows document to overlap each other in terms of content, rather than being separated into discrete groups.
 
