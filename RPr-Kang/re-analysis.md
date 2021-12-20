@@ -284,8 +284,8 @@ You may find [here](https://github.com/emilyzhou112/RPr-Kang-2020/blob/main/proc
 Figure 2 compares the accessibility of ICU beds to population at-risk in Chicago based on data obtained from the original analysis and the re-analysis. While the darker color grid represents higher spatial accessibility, the lighter one represents lower accessibility. Both figures reveal that spatial accessibility healthcare resources is uneven across Chicago.
 However, in terms of the degree of ICU access, the dark-shaded grids are of smaller extent and are more concentrated in the center of the map produced from re-analysis whereas from the original study, the shaded grids are more spread out and centered in northern and western portion of the map. Likewise, similar patterns can be observed in terms of the access to ventilators: results from re-analysis underscore a high accessibility at central Chicago
 
-![icu](left.jpg)
-![icu2](right.jpg)
+![icu](left.jpeg)
+![icu2](right.jpeg)
 *Figure 2: Spatial accessibility of ICU beds in Chicago: the figure at the top is the result of analysis including the 15 miles buffer around Chicago, made by the students in the Spring2021 class, the figure at the bottom is the result of our re-analysis in Fall2021*
 
 The major outcome of our modification to the original analysis manifested here is the differences in the extent of high-accessibility areas. The maps certainly illustrate a redistribution of resource accessibility in Chicago: it is certainly true that central Chicago has the highest accessibility in both analyses but results from re-analysis display lower accessibility along the border of Chicago. Since populations living in the vicinity of Chicago were excluded in the original analysis while the hospitals there were included, the potential of these hospitals were erroneously over-estimated. This is because Chicago residents might only represent a small portion of patients that these hospitals serve. Therefore, this justifies why areas at the northern and western border of Chicago display higher accessibility.
