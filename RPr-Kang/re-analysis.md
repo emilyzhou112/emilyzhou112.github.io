@@ -37,7 +37,7 @@ The [original study](https://github.com/cybergis/COVID-19AccessibilityNotebook) 
 - The road network obtained from [OpenStreetMap](https://www.openstreetmap.org/#map=4/38.01/-95.84).
 - The population data for Illinois accessed from the [American Community Survey](https://www.census.gov/programs-surveys/acs).
 - The hospital data collected from the [US Homeland Infrastructure Foundation Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals/explore?location=7.501852%2C-15.457900%2C1.91).
-- Covid data that includes the number of patients. 
+- Covid data that includes the number of patients.
 - The hexagon grid is generated as a shapefile used for aggregation.
 
 After loading the libraries and importing necessary data specified above, there are several preparations still need to be done for the analysis to run. This includes (ordered sequentially):
@@ -76,7 +76,7 @@ def overlap_calc(_id, poly, grid_file, weight, service_type):
 
 ![analysis](IMG_0721.jpg)
 *Figure 1: Illustration of catchment area calculation*  
-*Figure by: Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). [https://doi.org/10.1186/s12942-020-00229-x](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00229-x#rightslink) Permitted to share under the [creative common license](https://creativecommons.org/licenses/by/4.0/)*
+*Figure by: Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). [https://doi.org/10.1186/s12942-020-00229-x](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00229-x) Permitted to share under the [creative common license](https://creativecommons.org/licenses/by/4.0/)*
 
 Eventually, the parallel processing functions of calculating catchment area and overlapping it with grids, which use the [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) and [itertools](https://docs.python.org/3/library/itertools.html) libraries, apply the same calculation on all hospitals in the data set.
 
