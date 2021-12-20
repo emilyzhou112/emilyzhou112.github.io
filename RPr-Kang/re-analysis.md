@@ -285,6 +285,7 @@ Figure 2 compares the accessibility of ICU beds to population at-risk in Chicago
 However, in terms of the degree of ICU access, the dark-shaded grids are of smaller extent and are more concentrated in the center of the map produced from re-analysis whereas from the original study, the shaded grids are more spread out and centered in northern and western portion of the map. Likewise, similar patterns can be observed in terms of the access to ventilators: results from re-analysis underscore a high accessibility at central Chicago
 
 ![icu](left.jpeg)
+
 ![icu2](right.jpeg)
 *Figure 2: Spatial accessibility of ICU beds in Chicago: the figure at the top is the result of analysis including the 15 miles buffer around Chicago, made by the students in the Spring2021 class, the figure at the bottom is the result of our re-analysis in Fall2021*
 
