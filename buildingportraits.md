@@ -84,7 +84,7 @@ In terms of the space plan, the building is easily accessible and has entrance t
 
 Zooming into the interior of this building, the floor plan shows us that the Richardson Place is connected to its neighbor, the 14th Church Street, through a hallway and leads to this P-shape floor plan. The building is equipped with three elevators and five stairs with different functions. Stairs facing the west façade are much wider and looks like they are for public use while stairs facing the north facade are narrower and more likely to be reserved for employer use.
 
-![floorplan](1240assets/floorplan.jpg)
+![floorplan](1240assets/floorplan.JPG)
 *Figure 12: Second floor plan, drawn using pencil and charcoal, rendered in Procreate*
 
 ## Stuff
@@ -98,7 +98,7 @@ Looking closely at some elements of the building, the interior is hollowed out w
 
 To quickly conclude, there are many buildings in the Church Street Marketplace that deserve to have their architectural and historic significance acknowledged and explored, and the Richardson Place is just one of them. In the future, I expect the interior of the building to display more diversity as business move in and out and its exterior continue to blend with the pedestrian street, but no matter what will change and what stays the same, the stories of the Richardson Place will continue as the building grows with the city of Burlington.
 
-![pedestrain](1240assets/IMG_9803.jpg)
+![pedestrain](1240assets/IMG_9803.JPG)
 
 ===
 
@@ -110,7 +110,7 @@ The narratives are supported by selected ourse readings that include [*The Poeti
 
 ===
 
-![drawing](1240assets/IMG_9888.jpg)
+![drawing](1240assets/IMG_9888.JPG)
 *In the process of learning to produce some elevation drawings:) (01/27/22)*
 
 > In the end, I would like to thank my instructors Zane and Alix for being super helpful in guiding me to produce standard architectural drawings and brainstorming the site plan maps.
