@@ -3,11 +3,13 @@ layout: default
 title: Main Page
 ---
 
-# Emily's Open Source GIS Portfolio
+# Emily's World of Geography
 
-Hi! My name is Emily and welcome to my Open Source GIS portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
+Hi! My name is Emily and welcome to my geography portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
 
-This website is a documentation of GIS analyses, course reflections, and other cartographic works that I have done for [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler at Middlebury.  
+This website is a documentation of GIS analyses, course reflections, cartographic works, and other relevant projetcs that I have done at Middlebury for:
+- [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with Professor Jospeh Holler.  
+- [INTD 1240: Buildings of the City](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMIISLPP/term/term%2F202210/course/course%2FINTD1240) in Winter 2022 with visiting instructor Zane Anthony and Alix Pauchet.
 
 ![Lake](assets/IMG_7528.JPG)
 *Thousand Island Lake, Chun'an, China (05/29/21)*
@@ -39,3 +41,6 @@ This website is a documentation of GIS analyses, course reflections, and other c
 - [Reproduction of COVID-19 Healthcare Resources Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
 - [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
+
+## Architecture and Cartography
+- [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
