@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Transit Access in Somerville and Cambridge, MA
+title: Public Transit Access in Somerville and Cambridge, Massachusetts
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ This mapping exercise investigates the structure of transportation for a communi
 
 ## Big Ideas
 
-**Technical​** —​ Valhalla, QNEAT, Self-Intersect, QGIS to Illustrator, layer management.
+**Technical​** —​ Valhalla, QNEAT, Self-Intersect, QGIS to Illustrator, layer management.  
 **Conceptual​** —​ Network distance, vector overlay, thematic representation, color scheme symbology.
 
 ## Softwares
