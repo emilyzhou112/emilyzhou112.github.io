@@ -13,7 +13,7 @@ In this mapping exericse, I looked at police incident reports and arrest statist
 
 ## Big Ideas
 
-**Technical​** — Import Tabular Information, Joins, Heatmap, Animation Plug-In, Mapbox.
+**Technical​** — Import Tabular Information, Joins, Heatmap, Animation Plug-In, Mapbox.  
 **Conceptual​** — Designing a work-plan, spatiotemporal data, creating dynamic visuals.
 
 
