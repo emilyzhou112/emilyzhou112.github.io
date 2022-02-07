@@ -45,3 +45,5 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 - [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
 - [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
 - [Conservation and Ecology in Coastal Maine](1026reports/week2.md)
+- [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
+- [Law and Social Justice in Boston, Massachusetts](1026reports/week4.md)
