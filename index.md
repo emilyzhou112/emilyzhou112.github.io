@@ -7,8 +7,10 @@ title: Main Page
 
 Hi! My name is Emily and welcome to my geography portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
 
-This website is a documentation of GIS analyses, course reflections, cartographic works, and other relevant projetcs that I have done at Middlebury for (order chronologically):
+This website is a documentation of GIS analyses, course reflections, cartographic works, and other relevant projetcs that I have done at Middlebury for (ordered chronologically):
 
+- [GEOG 0202: Border Geographies](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0202) in Fall 2020 with professor Guntram Herb.
+- [GEOG 120: Human Geography with GIS](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0120) in Fall 2020 with professor Jospeh Holler.
 - [GEOG 1026: Visualizing Our Future](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG1026) in Winter 2021 with visiting instructor Ben Meader.
 - [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with professor Jospeh Holler.  
 - [INTD 1240: Buildings of the City](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMIISLPP/term/term%2F202210/course/course%2FINTD1240) in Winter 2022 with visiting instructors Zane Anthony and Alix Pauchet.
@@ -18,7 +20,7 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 
 
 > It might be boring to count how many islands are above on the *Thousand Island Lake*
-> but never dull to learn how techniques used in GIS researches and effective spatial planning have played a significant role in ensuring drinking water supply for millions of people.
+> but worthwhile to learn how techniques used in GIS researches and effective spatial planning have played a significant role in ensuring drinking water supply for millions of people.
 
 
 
@@ -41,9 +43,15 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
 - [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
 
-## Architecture and Cartography
-- [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
+## Cartography
 - [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
 - [Conservation and Ecology in Coastal Maine](1026reports/week2.md)
 - [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
 - [Law and Social Justice in Boston, Massachusetts](1026reports/week4.md)
+- [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
+
+## Urban Studies and Architecture
+- [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
+
+## Selected Project Works
+- [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
