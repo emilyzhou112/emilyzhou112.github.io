@@ -15,7 +15,7 @@ In Vermont, there are two different ways of assessing risk of flood damage in Ve
 
 The following mapping exercise and GIS analysis identify mobile houses vulnerable to flood in four counties in Vermont using three different approaches. Firstly, it analyzed exposure to flood risk using the American Community Survey Data provided in block group and FEMA zones, assuming mobile homes are evenly distributed within block groups. Secondly, it analyzed exposure to flood risk using e911 data and FEMA zones: mobile homes are considered to be at risk if any part of the buffer is in a 100-year FEMA flood zone. Finally, it analyzed the exposure to flood risk using e911 data and river corridors. The purpose of this analysis is to learn how to **assess the management of vulnerability to natural hazards in the context of housing and flood risk as well as to contrast different ways of flood risk representation, learning how uncertainty arise in the process of GIS analysis**.
 
-See [here](120assets/Exam2_workflow.pdf) the workflow I created for the GIS analysis and [here](120assets/essayrevision_emilyzhou.pdf) for the full report of this analysis.
+See [here](120assets/essayrevision_emilyzhou.pdf) for the full report of this analysis.
 
 ## Data
 - All vector data were downloaded [Vermont Open Geodata Portal](https://geodata.vermont.gov/)
