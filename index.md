@@ -12,6 +12,7 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 - [GEOG 0202: Border Geographies](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0202) in Fall 2020 with professor Guntram Herb.
 - [GEOG 0120: Human Geography with GIS](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0120) in Fall 2020 with professor Jospeh Holler.
 - [GEOG 1026: Visualizing Our Future](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG1026) in Winter 2021 with visiting instructor Ben Meader.
+- [GEOG 0213: Population Geography](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0213) in Spring 2021 with professor Peter Nelson.
 - [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with professor Jospeh Holler.  
 - [INTD 1240: Buildings of the City](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMIISLPP/term/term%2F202210/course/course%2FINTD1240) in Winter 2022 with visiting instructors Zane Anthony and Alix Pauchet.
 
@@ -53,5 +54,6 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 ## Urban Studies and Architecture
 - [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
 
-## Selected Project Works
+## Other Selected Project Works
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
+- [Population Trends in US Midwest](https://storymaps.arcgis.com/stories/ff1af04f57a54233bf9ef47762d03cd0)
