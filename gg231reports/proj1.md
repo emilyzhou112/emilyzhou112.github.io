@@ -5,7 +5,7 @@ title: Monochrome Map - Where the Water Goes in Vermont
 
 ## Map Layout
 
-You may click [here](231assets/proj1map.jpg) to see this map in better resolution
+You may click [here](231assets/proj1map.JPG) to see this map in better resolution
 
 ![proj1](231assets/proj1map.JPG)
 
