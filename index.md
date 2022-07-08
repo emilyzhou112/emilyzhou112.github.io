@@ -5,16 +5,16 @@ title: Main Page
 
 # Emily's World of Geography
 
-Hi! My name is Emily and welcome to my geography portfolio. I am a junior majoring Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
+Hi! My name is Emily and welcome to my geography portfolio. I am a senior majoring in Geography and double minoring in Japanese Studies & Computer Science at Middlebury College.
 
-This website is a documentation of GIS analyses, course reflections, cartographic works, and other relevant geography projetcs that I have done at Middlebury for (ordered chronologically):
+This website is a documentation of GIS analyses, course reflections, cartographic works, and other relevant geography projects that I have done at Middlebury for:
 
-- [GEOG 0202: Border Geographies](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0202) in Fall 2020 with professor Guntram Herb.
-- [GEOG 0120: Human Geography with GIS](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0120) in Fall 2020 with professor Joseph Holler.
-- [GEOG 1026: Visualizing Our Future](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG1026) in Winter 2021 with visiting instructor Ben Meader.
-- [GEOG 0213: Population Geography](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0213) in Spring 2021 with professor Peter Nelson.
-- [GEOG 0323: Open Source GIScience](http://gis4dev.github.io) in Fall 2021 with professor Joseph Holler.  
-- [INTD 1240: Buildings of the City](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMIISLPP/term/term%2F202210/course/course%2FINTD1240) in Winter 2022 with visiting instructors Zane Anthony and Alix Pauchet.
+- [Border Geographies](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0202) with professor Guntram Herb.
+- [Human Geography with GIS](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0120) and [Open Source GIScience](http://gis4dev.github.io) with professor Joseph Holler.
+- [Visualizing Our Future](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG1026) with visiting instructor Ben Meader.
+- [Population Geography](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FGEOG0213) with professor Peter Nelson.
+- [Buildings of the City](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMIISLPP/term/term%2F202210/course/course%2FINTD1240) with visiting instructors Zane Anthony and Alix Pauchet.
+- [Cartography](https://geog0231.github.io/s22/) with professor Jeff Howarth.
 
 ![Lake](assets/IMG_7528.JPG)
 *Thousand Island Lake, Chun'an, China (05/29/21)*
@@ -50,11 +50,12 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 - [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
 - [Law and Social Justice in Boston, Massachusetts](1026reports/week4.md)
 - [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
-
-## Urban Studies and Architecture
-- [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
+- [A Journey of Cherry Blossom Through Time]
+- [Where the Water Goes in Vermont](gg231reports/proj1.md)
+-
 
 ## Other Selected Project Works
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
 - [Population Trends in US Midwest](https://storymaps.arcgis.com/stories/ff1af04f57a54233bf9ef47762d03cd0)
 - [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
+- [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
