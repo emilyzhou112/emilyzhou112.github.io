@@ -50,9 +50,8 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 - [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
 - [Law and Social Justice in Boston, Massachusetts](1026reports/week4.md)
 - [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
-- [A Journey of Cherry Blossom Through Time]
 - [Where the Water Goes in Vermont](gg231reports/proj1.md)
--
+- [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
 
 ## Other Selected Project Works
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
