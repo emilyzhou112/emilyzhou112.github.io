@@ -52,6 +52,7 @@ This website is a documentation of GIS analyses, course reflections, cartographi
 - [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
 - [Where the Water Goes in Vermont](gg231reports/proj1.md)
 - [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
+- [Comparative Visual Study of Shaded Relief in Churfirsten Switzerland](gg231reports/proj3.md)
 
 ## Other Selected Project Works
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
