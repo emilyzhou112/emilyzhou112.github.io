@@ -6,18 +6,19 @@ title: Main Page
 # Emily's World of Geography
 
 ![Lake](assets/IMG_7528.JPG)
-*Thousand Island Lake, Chun'an, China (05/29/21)*
+*Thousand Island Lake, Chun'an, China*
 
-> Solving Geography problems helps you to solve life problem. See how leading geography and information technology as well as effective spatial planning in Chun'an county have ensured drinking water supply for millions of people in China! .
+> Solving Geography problems helps you to solve life problem! See how leading geographic information technology and effective spatial planning in Chun'an county have ensured drinking water supply for millions of people in China. 
 
 ## Open Source GIScience Analyses
-I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on resource accessibility in Dar es Salaam using Postgre SQL. The goal is to assess prior study’s credibility and internal validity so that we could pinpoint problems with the built environment and look for solutions. 
+I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on urban resource accessibility using Postgre SQL.
 - [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](dsm_analysis/dsm_report.md)
 - [Reproduction of COVID-19 Healthcare Resources Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
 - [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
 
 ## New England Planning with Mock Mapping Charrettes
+In winter 2021, I worked with Middlebury alumni Ben Meader, current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings
 - [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
 - [Conservation and Ecology in Coastal Maine](1026reports/week2.md)
 - [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
