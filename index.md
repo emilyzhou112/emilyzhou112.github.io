@@ -43,8 +43,10 @@ I also applied my interest and expertise in spatial data analysis and visualizat
 - [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
 - [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
 
+---
+
 ## GIS Research on Reproducibility and Replicability in Geographical Science
-In summer 2022, I worked as a GIS research assistant Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) as well as Professor [Peter Kedron](https://search.asu.edu/profile/3316903) and graduate students from Arizona State University to reproduce spatial health geography papers. We drafted computational notebooks and completed three research compendiums as GitHub repositories. We also organized [workshops](https://www.ucgis.org/workshops-2022#HEGS) at the 2022 University Consortium of Geographic Information Science (UCGIS) Symposium in Syracuse, New York, to help graduate students to make their research reproducible and inform public health officials on decision making.
+In summer 2022, I worked as a GIS research assistant Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) and ASU Professor [Peter Kedron](https://search.asu.edu/profile/3316903) to reproduce spatial health geography papers. We drafted computational notebooks and completed three research compendiums as GitHub repositories. We also organized [workshops](https://www.ucgis.org/workshops-2022#HEGS) at the 2022 University Consortium of Geographic Information Science (UCGIS) Symposium in Syracuse, New York, to help graduate students to make their research reproducible and inform public health officials on decision making.
 
 - The materials UCGIS Workshop on *Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences* are available [here](https://github.com/HEGSRR/UCGIS-Workshop).
 - Our finalized work on *Reproduction of Chakraborty 2021 analysis of unequal distribution of COVID-19 for people with disabilities* is available [here](https://osf.io/s5mtq/).
