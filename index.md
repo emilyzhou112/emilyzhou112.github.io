@@ -8,9 +8,10 @@ title: Main Page
 ![Lake](assets/IMG_7528.JPG)
 *Thousand Island Lake, Chun'an, China (05/29/21)*
 
-> Solving Geography problems helps you to solve life problem. See how leading geography and information technology as well as effective spatial planning have ensured drinking water supply for millions of people in China! .
+> Solving Geography problems helps you to solve life problem. See how leading geography and information technology as well as effective spatial planning in Chun'an county have ensured drinking water supply for millions of people in China! .
 
 ## Open Source GIScience Analyses
+I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on resource accessibility in Dar es Salaam using Postgre SQL. The goal is to assess prior study’s credibility and internal validity so that we could pinpoint problems with the built environment and look for solutions. 
 - [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](dsm_analysis/dsm_report.md)
 - [Reproduction of COVID-19 Healthcare Resources Spatial Accessibility in Chicago, Illinois](RPr-Kang/re-analysis.md)
 - [Replication of Twitter Data Analysis for Natural Hazards](RE-Ida/ida.md)
@@ -45,4 +46,6 @@ title: Main Page
 - [Applications, Limitations, and Ethical Issues in VGI](vgi)
 - [Social Inequities under Public Health Crisis](covid_disability)
 
-## Research on Reproducibility
+## GIS Research on Reproducibility in Geographical Science
+
+## Remote Sensing Research on Congo Basin Forest Change
