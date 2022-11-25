@@ -59,7 +59,6 @@ Since Spring 2022, I have worked with Middlebury College Professor Niwaeli Kimam
 
 This is an ongoing work. Final results will be shared soon, but for now you can view the project layers [here](https://drive.google.com/drive/folders/1-Omn3vSY2g0Sdce00yJmtXgxZcyknD6v?usp=sharing).
 
-
 ## Reflections on Geospatial Research
 - [What is Open Source GIScience?](open-giscience)
 - [GIS: Science or Tool?](science_tool)
