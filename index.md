@@ -6,9 +6,9 @@ title: Main Page
 # Emily's World of Geography
 
 ![Lake](assets/IMG_7528.JPG)
-*Thousand Island Lake, Chun'an, China*
+*Qiandao Lake, Chun'an, China*
 
-> Solving Geography problems helps you to solve life problem! See how leading geographic information technology and effective spatial planning in Chun'an county have ensured drinking water supply for millions of people in China. 
+> Solving Geography problems helps you to solve life problem! [See](https://projects.worldbank.org/en/projects-operations/project-detail/P159870) how leading geographic information technology and effective spatial planning in Chun'an have ensured drinking water supply for millions of people in China.
 
 ## Open Source GIScience Analyses
 I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on urban resource accessibility using Postgre SQL.
@@ -18,7 +18,7 @@ I have expanded my experience in geospatial analysis through learning advanced s
 - [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
 
 ## New England Planning with Mock Mapping Charrettes
-In winter 2021, I worked with Middlebury alumni Ben Meader, current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings
+In winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedin.com/in/benjamin-meader-5ba6923a), current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings.
 - [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
 - [Conservation and Ecology in Coastal Maine](1026reports/week2.md)
 - [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
@@ -26,6 +26,7 @@ In winter 2021, I worked with Middlebury alumni Ben Meader, current director of 
 - [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
 
 ## Cartography and Architectural Studies
+I honed my s
 - [Where the Water Goes in Vermont](gg231reports/proj1.md)
 - [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
 - [Comparative Visual Study of Shaded Relief in Churfirsten Switzerland](gg231reports/proj3.md)
