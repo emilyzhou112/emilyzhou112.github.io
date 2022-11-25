@@ -44,17 +44,18 @@ I also applied my interest and expertise in spatial data analysis and visualizat
 - [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
 
 ## GIS Research on Reproducibility in Geographical Science
-In summer 2022, I worked as a GIS research assistant Middlebury College professor Joseph Holler as well as Professor Peter Kedron and graduate students from Arizona State University to reproduce spatial health geography papers. We drafted computational notebooks and completed three research compendiums as GitHub repositories. We also organized [workshops](https://www.ucgis.org/workshops-2022#HEGS) at the 2022 University Consortium of Geographic Information Science (UCGIS) Symposium in Syracuse, New York, to help graduate students to make their research reproducible and inform public health officials on decision making.
+In summer 2022, I worked as a GIS research assistant Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) as well as Professor [Peter Kedron](https://search.asu.edu/profile/3316903) and graduate students from Arizona State University to reproduce spatial health geography papers. We drafted computational notebooks and completed three research compendiums as GitHub repositories. We also organized [workshops](https://www.ucgis.org/workshops-2022#HEGS) at the 2022 University Consortium of Geographic Information Science (UCGIS) Symposium in Syracuse, New York, to help graduate students to make their research reproducible and inform public health officials on decision making.
 
 - Materials UCGIS Workshop on *Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences* available [here](https://github.com/HEGSRR/UCGIS-Workshop).
 - Finalized work on *Reproduction of Chakraborty 2021 analysis of unequal distribution of COVID-19 for people with disabilities* available [here](https://osf.io/s5mtq/).
 - Current research on *Replication of Chakraborty 2021 analysis of unequal distribution of COVID-19 for people with disabilities* available [here](https://github.com/HEGSRR/RPl-Chakraborty-2022).
-
-- Materials for scheduled [symposium]((https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) on *Harnessing the Geospatial Data Revolution for Sustainability Solutions - Reproducibility and Replicability in the Human-Environment and Geographical Sciences* and
+- Materials for scheduled [symposium](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) on *Harnessing the Geospatial Data Revolution for Sustainability Solutions - Reproducibility and Replicability in the Human-Environment and Geographical Sciences* and
 [presentations](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681/application/23932) at the 2023 American Association of Geographer (AAG) Annual Meeting in Denver, Colorado available [here](https://github.com/HEGSRR/AAG-2023).
 
 ## Remote Sensing Research on Congo Basin Forest Change
-This is an ongoing project and
+Since Spring 2022, I have worked with Middlebury College Professor Niwaeli Kimambo and Phd candidate Sarah Tolbert at University of Wisconsin Madison on managing spatial database that record study sites and metadata of included journals in comparing the drivers of deforestation versus degradation.
+
+This is an ongoing work. Final results will be shared soon, but for now you can view the project layers [here](https://drive.google.com/drive/folders/1-Omn3vSY2g0Sdce00yJmtXgxZcyknD6v?usp=sharing).
 
 
 ## Reflections on Geospatial Research
