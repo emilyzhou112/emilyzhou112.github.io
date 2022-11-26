@@ -5,6 +5,8 @@ title: Main Page
 
 # Emily's World of Geography
 
+My academic and research work mainly focused on using geographic information system, spatial data analysis, and cartographic design to study 1) [urban resource accessibility](dsm_analysis/dsm_report.md) and [public transportation network](RPr-Kang/re-analysis.md)  2) natural hazard [vulnerability](120reports/exam2.md) and [preparedness](RE-Ida/ida.md) 3) [environmental conservation](1026reports/week2.md) and [sustainable development](1026reports/week3.md). In the future, I hope to address the problems I identify through research to facilitate decision-making in municipal planning and create a tangible impact on the local community!
+
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
