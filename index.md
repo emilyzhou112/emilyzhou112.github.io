@@ -41,9 +41,9 @@ I honed my skills in design through studying architecture with Middlebury alumni
 I also applied my interest and expertise in spatial data analysis and visualization to various project works in Geography, Computer Science, and Math that cover topics ranging from public health, geopolitics, migration, and more!
 
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
-- [Population Trends in US Midwest](https://storymaps.arcgis.com/stories/ff1af04f57a54233bf9ef47762d03cd0)
 - [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
 - [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
+- [Sketchbook for Generative Art with Javascript P5](https://csci467-s23.github.io/sketchbook-emilyzhou112/)
 
 ---
 
