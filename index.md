@@ -5,8 +5,7 @@ title: Main Page
 
 # Emily's World of Geography
 
-My academic and research work mainly focused on using geographic information system, spatial data analysis, and cartographic design to study 1) [urban resource accessibility](dsm_analysis/dsm_report.md) and [public transportation network](RPr-Kang/re-analysis.md)  2) natural hazard [vulnerability](120reports/exam2.md) and [preparedness](RE-Ida/ida.md) 3) [environmental conservation](1026reports/week2.md) and [sustainable development](1026reports/week3.md). In the future, I hope to address the problems I identify through research to facilitate decision-making in municipal planning and create a tangible impact on the local community!
-
+My academic and research work mainly focus on using geographic information system, spatial data science, and cartographic design to study urban resource accessibility, natural hazard vulnerability and preparedness, as well as environmentally sustainable development. 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
@@ -21,7 +20,7 @@ I have expanded my experience in geospatial analysis through learning advanced s
 - [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
 
 ## New England Planning with Mock Mapping Charrettes
-In winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedin.com/in/benjamin-meader-5ba6923a), current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings.
+In Winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedin.com/in/benjamin-meader-5ba6923a), current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings.
 
 - [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
 - [Conservation and Ecology in Coastal Maine](1026reports/week2.md)
@@ -30,7 +29,7 @@ In winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedi
 - [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
 
 ## Cartography and Architectural Studies
-I honed my skills in design through studying architecture with Middlebury alumni [Alix Pauchet](https://www.linkedin.com/in/alix-pauchet-b0591367) in Winter 2021 and cartography with Professor [Jeff Howarth](https://jeffhowarth.github.io/) in Spring 2021. One of the maps I made, A Journey of Cherry Blossom Through Time, was selected for presentation in the 42nd Annual Meeting of North American Cartographic Information Society (NACIS) in Minneapolis, Minnesota.
+I honed my skills in design through studying architecture with Middlebury alumni [Alix Pauchet](https://www.linkedin.com/in/alix-pauchet-b0591367) in Winter 2021 and cartography with Professor [Jeff Howarth](https://jeffhowarth.github.io/) in Spring 2021. 
 
 - [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
 - [Where the Water Goes in Vermont](gg231reports/proj1.md)
@@ -38,23 +37,22 @@ I honed my skills in design through studying architecture with Middlebury alumni
 - [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
 
 ## Data Visualization Projects
-I also applied my interest and expertise in spatial data analysis and visualization to various project works in Geography, Computer Science, and Math that cover topics ranging from public health, geopolitics, migration, and more!
+I also applied my interest and expertise in spatial data analysis and visualization to various project works in Geography, Computer Science, and Math that cover topics ranging from public health, geopolitics, generative art, and more!
 
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
 - [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
 - [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
-- [Sketchbook for Generative Art with Javascript P5](https://csci467-s23.github.io/sketchbook-emilyzhou112/)
+- [Sketchbook for Generative Art with JavaScript P5](https://csci467-s23.github.io/sketchbook-emilyzhou112/)
 
 ---
 
 ## GIS Research on Reproducibility and Replicability in Geographical Science
-In summer 2022, I worked as a GIS research assistant Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) and ASU Professor [Peter Kedron](https://search.asu.edu/profile/3316903) to reproduce spatial health geography papers. We drafted computational notebooks and completed three research compendiums as GitHub repositories. We also organized [workshops](https://www.ucgis.org/workshops-2022#HEGS) at the 2022 University Consortium of Geographic Information Science (UCGIS) Symposium in Syracuse, New York, to help graduate students to make their research reproducible and inform public health officials on decision making.
+In summer 2022, I worked as a GIS research assistant for Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) and ASU Professor [Peter Kedron](https://search.asu.edu/profile/3316903) to reproduce spatial health geography papers. In the past two years, we have: 
+- Hosted [workshop](https://github.com/HEGSRR/UCGIS-Workshop) at [UCGIS 2022](https://www.ucgis.org/workshops-2022#HEGS) in Syracus, NY
+- Completed reseach compendium on [reproducing](https://osf.io/s5mtq/) and [replicating](https://osf.io/5tzy9/) Chakraborty 2021
+- Hosted [sessions](https://github.com/HEGSRR/CP-AAG-2023) at [AAG 2023](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) in Denver, CO
+- Presented at Middlebury College's Spring 2023 Student [Symposium](assets/essayrevision_emilyzhou.pdf) 
 
-- The materials UCGIS Workshop on *Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences* are available [here](https://github.com/HEGSRR/UCGIS-Workshop).
-- Our finalized work on *Reproduction of Chakraborty 2021 analysis of unequal distribution of COVID-19 for people with disabilities* is available [here](https://osf.io/s5mtq/).
-- Materials for our current research on *Replication of Chakraborty 2021 analysis of unequal distribution of COVID-19 for people with disabilities* is available [here](https://github.com/HEGSRR/RPl-Chakraborty-2022).
-- Materials for our scheduled [symposium](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) on *Harnessing the Geospatial Data Revolution for Sustainability Solutions - Reproducibility and Replicability in the Human-Environment and Geographical Sciences* and
-[presentations](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681/application/23932) at the 2023 American Association of Geographer (AAG) Annual Meeting in Denver, Colorado are available [here](https://github.com/HEGSRR/AAG-2023).
 
 ## Remote Sensing Research on Congo Basin Forest Change
 Since Spring 2022, I have worked with Middlebury College Professor Niwaeli Kimambo and Phd candidate Sarah Tolbert at University of Wisconsin Madison on managing spatial database that record study sites and metadata of included journals in comparing the drivers of deforestation versus degradation.
