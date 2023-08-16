@@ -7,6 +7,9 @@ title: Main Page
 
 My academic and research work mainly focus on using geographic information system, spatial data science, and cartographic design to study urban resource accessibility, natural hazard vulnerability and preparedness, as well as environmentally sustainable development. 
 
+**New**
+[Generative Art Sketchbook](https://csci467-s23.github.io/sketchbook-emilyzhou112/) with p5.js is now live!
+
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
@@ -53,7 +56,7 @@ In summer 2022, I worked as a GIS research assistant for Middlebury College prof
 - Hosted [workshop](https://github.com/HEGSRR/UCGIS-Workshop) at [UCGIS 2022](https://www.ucgis.org/workshops-2022#HEGS) in Syracus, NY
 - Completed reseach compendium on [reproducing](https://osf.io/s5mtq/) and [replicating](https://osf.io/5tzy9/) Chakraborty 2021
 - Hosted [sessions](https://github.com/HEGSRR/CP-AAG-2023) at [AAG 2023](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) in Denver, CO
-- Presented at Middlebury College's Spring 2023 Student [Symposium](assets/essayrevision_emilyzhou.pdf) 
+- Presented at Middlebury College's Spring 2023 Student [Symposium](assets/sym-poster-final-emily.pdf) 
 
 
 ## Remote Sensing Research on Congo Basin Forest Change
