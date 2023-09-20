@@ -7,14 +7,12 @@ title: Main Page
 
 My academic and research work mainly focus on using geographic information system, spatial data science, and cartographic design to study urban resource accessibility, natural hazard vulnerability and preparedness, as well as environmentally sustainable development. 
 
-**New**
-[Generative Art Sketchbook](https://csci467-s23.github.io/sketchbook-emilyzhou112/) with p5.js is now live!
-
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
-> Solving Geography problems helps you to solve life problem! [See](https://projects.worldbank.org/en/projects-operations/project-detail/P159870) how leading geographic information technology and effective spatial planning in Chun'an have ensured drinking water supply for millions of people in China.
+## GIS for Public Policy
+- [Transit Oriented Development in Boston](musa-reports/01-Boston-TOD.html)
 
 ## Open Source GIScience Analyses
 I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on urban resource accessibility using Postgre SQL.
