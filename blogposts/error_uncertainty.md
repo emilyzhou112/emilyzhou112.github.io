@@ -9,7 +9,7 @@ As pointed out by Longley et.al, one of the biggest ironies in contemporary GIS 
 
 *You may find a full copy of the analysis mentioned above [here.](assets/essayrevision_emilyzhou.pdf)*
 
-![Screen](assets/IMG_0665.jpg)
+![Screen](../assets/IMG_0665.jpg)
 
 Uncertainty arises in multiple stages of a geographic research. In the example above, they arise when we are trying to define the boundary of the flood zone as well as when we are deciding whether to use aggregated or point data. Longley et.al has attributed the principal sources of uncertainty to three different stages in research (see figure above). As you move from an observation in the real world to analysis in the lab, uncertainties arise in the **conception**, **measurement**, and **analysis** phase. Essentially, Longley et.al argues that the way in we conceive a geographic phenomenon very much prescribes the way we are likely to set about measuring the representing it. Then, the measurement procedure conditions the way it may be analyzed within GIS. Eventually, the effects of one phase layer on one another, distorting the representation of the real world.
 
@@ -23,7 +23,7 @@ As stated by Longley et.al. *the inherent complexity and detail of our world mak
 
 ===
 
-![Scene](assets/IMG_3790.jpg)
+![Scene](../assets/IMG_3790.jpg)
 *Anji, Zhejiang, China (08/31/20)*
 
 > Different individuals see the world in different ways and no single view is likely to be accepted universally as the best.

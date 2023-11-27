@@ -28,7 +28,7 @@ That being said, there is not a definite conclusion on whether GIS falls under a
 ===
 
 
-![Scene](assets/IMG_2070.jpg)
+![Scene](../assets/IMG_2070.jpg)
 *Xianju, Taizhou, China (07/05/19)*
 
 > Hmm I cannot see anything ahead  

@@ -30,7 +30,7 @@ Yet, even with all the advantages associated with spatial analysis using CyberGI
 
 ===
 
-![panda](assets/panda.jpg)
+![panda](../assets/panda.jpg)
 *Chengdu, Sichuan, China*
 
 > If CyberGIS is more powerful than desktop GIS,   

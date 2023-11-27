@@ -5,7 +5,7 @@ title: Applications, Limitations, and Ethical Issues in VGI
 
 Do you know that every time when you message a friend via Instagram or post an update on Twitter, you are contributing to **volunteered geographic information (VGI)**?  While it does not make any literal sense to bridge social media and VGI, many social media platforms and mobile phone data have been proven to be innovative and effective data sources for researchers to acquire data on human behaviors and gain an alternative, more humanistic perspective on issues of their interest. In other words, the content of your tweets/messages carry far more implications than the literal information: they have been mined and studied by researchers for more detailed accounts on how some people are communicating in networked environments. This has been particularly useful in the study of social behavior during natural hazards, given that social medias are able to capture the situations, the opinions, the emotions, and the actions in a timely manner.
 
-![tweet](assets/twitter.png)
+![tweet](../assets/twitter.png)
 *Uncertainty, Uncertainty, Everywhere!*
 
 However, although the application of VGI as a system of knowledge during crisis events, has brought new insights into how people experience a crisis, there are also limits to what we could learn from these data. *Recalling from previous [blog post](vulnerability), we reach the conclusion that uncertainty is ubiquitous, inevitable, and almost inherent in research of any kind*. Likewise, uncertainties are prevalent in the use of VGI and would become an issue if not sufficiently understood and examined. Drawing on examples from an analysis of twitter activity during [Hurricane Dorian](https://github.com/GIS4DEV/OR-Dorian), this blog post examines how, other than the methodology researchers deploy, but the tool that they use, which is volunteered geographic information in this case, could also entail uncertainty.
@@ -16,7 +16,7 @@ In the article “The limits of crisis data: analytical and ethical challenges o
 
 Crawford and Finn first argue that the way that disasters are defined can strongly determine how social media datasets are operationalized during a crisis event. In contrast with the temporality of social media data, the effect of natural disaster itself covers a much longer time span. To fully account for the impact of a disaster requires us to not only focus on suffering during it, but also its aftermath, when the hard work of attempting to rebuild and recover occur. Yet, the short life span of social media data, which renders even post from yesterday as obsolete, would not do much help for us to gain a temporally holistic understanding of disaster. In other words, the data available after the attention of the public is gone would not produce any credible and meaningful result. On top of that, Crawford and Finn also assert that the analysis of social media during and after a disaster can resemble traditional media coverage, which has been accused of paying attention to only the most sensational stories. While it is totally reasonable that people tend to exaggerate their situation to seek for help during disaster, we need to be careful when making inference from the content of their post during analysis, which might entail uncertainty with respect to the magnitude and severity of the event.
 
-![time](assets/timeseries.png)
+![time](../assets/timeseries.png)
 *Figure 1: Number of geo-located tweet (n) over time. This figure illustrates how the interest Hurricane Dorian decreases over time on social media. Yet, the effect of this hurricane itself would cover a much longer time span.*  
 
 ### Epistemological Limitations:
@@ -26,13 +26,13 @@ Another problematic aspect of social media outlined by Crawford and Finn is the 
 
 And **finally**, there is the important question of representativeness. Typically, social media data is not a representative sample of people’s experiences during a crisis: specific voices will be heard, and others will be missed entirely. In general, social media is skewed to younger, wealthier, more urban, and racial majority demographic groups. This ultimately leads to a problematic emergency imaginary since the demographic groups that are the most vulnerable to natural hazards happen to be the elderly, the impoverished, and the minorities.
 
-![loc](assets/tweetloc.png)
+![loc](../assets/tweetloc.png)
 *Figure 2: Tweet locations and population density. Hurricane Dorian went from the Bahamas up along the coasts of Florida, Georgia, South Carolina, North Carolina, Virginia, which is where we see most of the tweets are concentrated. In addition to that, there are also a large number of Dorian-related twitter activities far away from the areas affected by the hurricane. How should we account for the content of these tweets? To what extent do they represent the true experience of Hurricane Dorian?*  
 
 ### Ethical Limitations:
 The ethical concern in the use of VGI is another factor that complicates uncertainty. This is particularly significant in a crisis situation when people reveal location data through the sharing of photos or requests for help that reveal highly sensitive personally identifying information. These information are collected without informed consent. In other words, people who sent these text messages did not consent to that particular use of their data. As such, whether we should disclose these information in research becomes an ethical issue. To protect user’s identity, twitter, for example, does not permit redistribution of its data, with the exception of tweet status ids. That is to say, if other user were to reproduce a previous research and re-access the data, they would not get the same results through rehydrating twitter data using status ids. Alternatively, we may aggregate individual tweets into larger geographic units, but aggregation as a means to generalize the data itself would introduce uncertainty.
 
- ![nor](assets/tweetlocnor.png)
+ ![nor](../assets/tweetlocnor.png)
  *Figure 3: Normalized differences in tweets over space. In the analysis of twitter activity of Hurricane Dorian, tweet locations were aggregated, summarized, and normalized into county levels to protect location data.*  
 
  In short, the effort of crowdsourcing and application of volunteered geographic information during crisis event has opened up new possibilities for researchers to examine the humanistic aspects of natural hazards. Yet, this participatory framework of data collection entails limitations and uncertainties. Questions, such as what we could learn from these data, how we could minimize those uncertainties, and how we should use them properly, needs to be fully accounted for before moving on to the analysis.
@@ -43,7 +43,7 @@ The ethical concern in the use of VGI is another factor that complicates uncerta
 
  ===
 
- ![home](assets/WechatIMG213.jpeg)  
+ ![home](../assets/WechatIMG213.jpeg)  
  *A random night walk at home (01/12/21)*
 
  > Always treat uncertainty with a positive approach.  

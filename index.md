@@ -69,7 +69,7 @@ This is an ongoing work. Final results will be shared soon, but for now you can 
 
 ## Reflections on Geospatial Research
 - [What is Open Source GIScience?](blogposts/open-giscience.md)
-- [GIS: Science or Tool?](blogposts/science_tool.mdl)
+- [GIS: Science or Tool?](blogposts/science_tool.md)
 - [Reproducibility and Replicability in Geography](blogposts/r_r.md)
 - [Error and Uncertainty in GIS](blogposts/error_uncertainty.md)
 - [Learning Spatial Analysis in CyberGIS Environment](blogposts/cybergis.md)

@@ -27,7 +27,7 @@ In summary, with the open-source movement as the fundamental pillar, practicing 
 
 ===
 
-![Scene](assets/IMG_3876.jpg)
+![Scene](../assets/IMG_3876.jpg)
 *Huzhou, China (09/01/20)*
 
 > How successful could we reproduce this ancient town under the water ~

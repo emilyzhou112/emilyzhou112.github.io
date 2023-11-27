@@ -22,7 +22,7 @@ Nevertheless, despite the barriers that open-source projects need to overcome, t
 ===
 
 
-![Lake](assets/IMG_1576.jpg)
+![Lake](../assets/IMG_1576.jpg)
 *West Lake, Hangzhou, China (12/26/19)*
 
 

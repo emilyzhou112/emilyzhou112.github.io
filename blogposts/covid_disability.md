@@ -25,12 +25,12 @@ To fully reproduce Chakraborty’s study, we need to re-create the three major c
 
 The **first part of** our reproduction analysis is dedicated to visualizing the spatial distribution of COVID-19 cases per 100,000 in the US. At this stage, the reproducibility of this research would be much improved if Chakraborty could specify the name of the ACS table they use and made the COVID-19 incidence data public. With the correct data, the reproduction result closely resembles that of the original study, both showing that COVID-19 cases are more prevalent in the southern US as well as more urbanized counties along the east coast and west coast. This includes states such as Florida, Alabama, Georgia, and New Mexico, as well as the several counties in New York, and California.
 
-![covid](assets/covid_pct.png)
+![covid](../assets/covid_pct.png)
 *Figure 1: COVID-19 incidence rate per 100,000*
 
 As an improvement to this part of the analysis, we proceed to create a map that illustrates the percentages of population with disability in each county. Doing so complements Chakraborty’s treatment of the census data he pulled from the ACS, in which he went straight into the bivariate correlations instead of examining the characteristics of these data first. The map provides us with a brief overview of how the distribution of COVID-19 incidence rate might correlate with the distribution of disability population across space before running any model. It reveals that many counties in the northeast, northwest corner of the US as well as in the south obtain a relatively high percentages of disability population. To further improve this, we could try visualizing the COVID-19 incidence rate and percentages disability population on the same layout using a bivariate choropleth to allow for more straightforward comparison between the two variables.  
 
-![disability](assets/disability.png)
+![disability](../assets/disability.png)
 *Figure 2: Percentages of population with disability*
 
 The **second part** of our reproduction analysis focused on computing the summary statistics for variables analyzed and the bivariate correlations with county COVID-19 incidence rate. Following Chakraborty’s method, we calculate the Pearson’s correlation coefficient. Our results are consistent with that of Chakraborty’s, though differ slightly in magnitude. However, one of the shortcomings of Chakraborty’s original approach is that the Pearson’s correlation is only applicable to variable with normal distribution. We revise this error by calculating the Spearman’s correlation coefficient, which, in comparison to our previous calculation, changes slightly. For example, while the Pearson’s correlation coefficient shows a weak positive relationship between “COVID-19 incidence rate” and “Percentages with disability that are Native American”, this turns into a weak negative relationship in Spearman’s correlation coefficient.
@@ -43,10 +43,10 @@ The relative risk score, to put it simply, calculates the ratio between local an
 
 The results of our reproduction study are mostly consistent with that of from Chakraborty’s, with slight differences in the magnitude of correlation coefficients. The coefficients that we compute are relatively smaller, which is in part due to one revision we have made to the Chakraborty’s work. The original study only calculates the relative risk score for the center of the cluster, where as our reproduction analysis calculates the relative risk score for each county in the cluster, although the ideal scenario is to have one relative risk score for all counties in the cluster (saved for future work). The differences become more evident if we visualize the relative risk score we compute, and compare it to that of Chakraborty’s original result.
 
-![original](assets/original.png)
+![original](../assets/original.png)
 *Figure 3: Relative risk score if calculated based on the center of the cluster*
 
-![reproduction](assets/reproduction.png)
+![reproduction](../assets/reproduction.png)
 *Figure 4: Relative risk score if calculated for each county in the cluster*
 
 ## Next step
@@ -66,6 +66,6 @@ In conclusion, Chakraborty’s study on social inequities under public health cr
 
 ===
 
-![home](assets/maps.jpeg)
+![home](../assets/maps.jpeg)
 *A quiet night with maps (01/24/21)*
 > The struggle you face when reproducing a work today is becoming the strength you need for creating you own work tomorrow…
