@@ -41,7 +41,7 @@ I honed my skills in design through studying architecture with Middlebury alumni
 - [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
 - [Where the Water Goes in Vermont](gg231reports/proj1.md)
 - [Comparative Visual Study of Shaded Relief in Churfirsten Switzerland](gg231reports/proj3.md)
-- [Building Portraits of Richardson Place, Burlington, Vermont](buildingportraits)
+- [Building Portraits of Richardson Place, Burlington, Vermont](blogposts/buildingportraits.md)
 
 ## Data Visualization Projects
 I also applied my interest and expertise in spatial data analysis and visualization to various project works in Geography, Computer Science, and Math that cover topics ranging from public health, geopolitics, generative art, and more!
@@ -50,6 +50,7 @@ I also applied my interest and expertise in spatial data analysis and visualizat
 - [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
 - [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
 - [Sketchbook for Generative Art with JavaScript P5](https://csci467-s23.github.io/sketchbook-emilyzhou112/)
+- [Powering Philadelphia's Future with Equitable EVSE Deployment](assets/evse-suitability.html)
 
 ---
 
@@ -67,11 +68,11 @@ Since Spring 2022, I have worked with Middlebury College Professor Niwaeli Kimam
 This is an ongoing work. Final results will be shared soon, but for now you can view the project layers [here](https://drive.google.com/drive/folders/1-Omn3vSY2g0Sdce00yJmtXgxZcyknD6v?usp=sharing).
 
 ## Reflections on Geospatial Research
-- [What is Open Source GIScience?](open-giscience)
-- [GIS: Science or Tool?](science_tool)
-- [Reproducibility and Replicability in Geography](r_r)
-- [Error and Uncertainty in GIS](error_uncertainty)
-- [Learning Spatial Analysis in CyberGIS Environment](cybergis)
-- [Uncertainty Analysis in Vulnerability Research](vulnerability)
-- [Applications, Limitations, and Ethical Issues in VGI](vgi)
-- [Social Inequities under Public Health Crisis](covid_disability)
+- [What is Open Source GIScience?](blogposts/open-giscience.md)
+- [GIS: Science or Tool?](blogposts/science_tool.mdl)
+- [Reproducibility and Replicability in Geography](blogposts/r_r.md)
+- [Error and Uncertainty in GIS](blogposts/error_uncertainty.md)
+- [Learning Spatial Analysis in CyberGIS Environment](blogposts/cybergis.md)
+- [Uncertainty Analysis in Vulnerability Research](blogposts/vulnerability.md)
+- [Applications, Limitations, and Ethical Issues in VGI](blogposts/vgi.md)
+- [Social Inequities under Public Health Crisis](blogposts/covid_disability.md)
