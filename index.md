@@ -5,18 +5,22 @@ title: Main Page
 
 # Emily's World of Geography
 
-My academic and research work mainly focus on using geographic information system, spatial data science, and cartographic design to study urban resource accessibility, natural hazard vulnerability and preparedness, as well as environmentally sustainable development. 
+My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation. 
+
 
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
-## GIS for Public Policy
+## GIS for Public Policy Analytics
+In Fall 2023,  I have applied geospatial machine learning techniques in the urban planning and public policy realm. All of these projects are aimed towards developing models to efficiently allocate limited resources across space. Use cases for these models include transportation planning, housing, public health, criminal justice, and beyond. 
+
 - [Transit Oriented Development in Boston](musa-reports/01-Boston-TOD.html)
 - [Philadelphia Home Price Prediction with Geospatial Machine Learning](musa-reports/02-Philly-ML.html)
 - [Geospatial Risk Prediction of Robbery Incients in Chicago](musa-reports/03-Chicago-Risks.html)
 - [Targeting Housing Subsidy with People-Based Machine Learning](musa-reports/04-Housing-Subsidy.html)
 - [Predicting Summer Bikeshare Demand in Jersey City](musa-reports/05-BikeShare-JerseyCity.html)
+- Geosptial Risk Terrain Model for Better Rehabilitation Resource Allocation and Heroin-Overdose Prevention, a Case Study of Cincinnati, Ohio (Upcoming)
 
 ## Open Source GIScience Analyses
 I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on urban resource accessibility using Postgre SQL.
