@@ -20,7 +20,7 @@ In Fall 2023,  I have applied geospatial machine learning techniques in the urba
 - [Geospatial Risk Prediction of Robbery Incients in Chicago](musa-reports/03-Chicago-Risks.html)
 - [Targeting Housing Subsidy with People-Based Machine Learning](musa-reports/04-Housing-Subsidy.html)
 - [Predicting Summer Bikeshare Demand in Jersey City](musa-reports/05-BikeShare-JerseyCity.html)
-- Geosptial Risk Terrain Model for Better Rehabilitation Resource Allocation and Heroin-Overdose Prevention, a Case Study of Cincinnati, Ohio (Upcoming)
+- [Geosptial Risk Terrain Model for Better Rehabilitation Resource Allocation and Heroin-Overdose Prevention, a Case Study of Cincinnati, Ohio](musa-reports/06-Cincinnati-Heroin-Overdose.html)
 
 ## Open Source GIScience Analyses
 I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on urban resource accessibility using Postgre SQL.
