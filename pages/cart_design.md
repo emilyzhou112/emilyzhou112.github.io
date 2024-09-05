@@ -1,8 +1,8 @@
 <!-- This is a comment to prevent the first line from being interpreted as a title -->
-## [Accessibility and Agency in Cambridge and Somerville, Massachusetts](../1026reports/week1.md)
+## [Accessibility and Agency in Cambridge and Somerville, Massachusetts](../cart/1026reports/week1.md)
 
 
-## [Conservation and Ecology in Coastal Maine](..cart/1026reports/week2.md)
+## [Conservation and Ecology in Coastal Maine](../cart/1026reports/week2.md)
 
 
 ## [Sustainable Development in Chittenden County, Vermont](../cart/1026reports/week3.md)
