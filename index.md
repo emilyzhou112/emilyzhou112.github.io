@@ -3,7 +3,7 @@ layout: default
 title: Main Page
 ---
 
-# Emily's World of Geography
+# Emily's World of GIS, Planning, and Design
 
 My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation.
 
@@ -15,8 +15,14 @@ Geospatial machine learning work in planning and public policy realm. Mostly aim
 
 Advanced spatial statistics, reproducibility and replicability work in health and hazards geography using open source R or Python code and Postgre SQL. 
 
+
+## [Cartographic and Urban Design](pages/cart_design.md)
+
+---
+
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
+
 
 ## New England Planning with Mock Mapping Charrettes
 
@@ -45,24 +51,7 @@ I also applied my interest and expertise in spatial data analysis and visualizat
 - [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
 - [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
 - [Sketchbook for Generative Art with JavaScript P5](https://csci467-s23.github.io/sketchbook-emilyzhou112/)
-- [Powering Philadelphia's Future with Equitable EVSE Deployment](assets/evse-suitability.html)
 
----
-
-## GIS Research on Reproducibility and Replicability in Geographical Science
-
-In summer 2022, I worked as a GIS research assistant for Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) and ASU Professor [Peter Kedron](https://search.asu.edu/profile/3316903) to reproduce spatial health geography papers. In the past two years, we have:
-
-- Hosted [workshop](https://github.com/HEGSRR/UCGIS-Workshop) at [UCGIS 2022](https://www.ucgis.org/workshops-2022#HEGS) in Syracus, NY
-- Completed reseach compendium on [reproducing](https://osf.io/s5mtq/) and [replicating](https://osf.io/5tzy9/) Chakraborty 2021
-- Hosted [sessions](https://github.com/HEGSRR/CP-AAG-2023) at [AAG 2023](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) in Denver, CO
-- Presented at Middlebury College's Spring 2023 Student [Symposium](assets/sym-poster-final-emily.pdf)
-
-## Remote Sensing Research on Congo Basin Forest Change
-
-Since Spring 2022, I have worked with Middlebury College Professor Niwaeli Kimambo and Phd candidate Sarah Tolbert at University of Wisconsin Madison on managing spatial database that record study sites and metadata of included journals in comparing the drivers of deforestation versus degradation.
-
-This is an ongoing work. Final results will be shared soon, but for now you can view the project layers [here](https://drive.google.com/drive/folders/1-Omn3vSY2g0Sdce00yJmtXgxZcyknD6v?usp=sharing).
 
 ## Reflections on Geospatial Research
 
