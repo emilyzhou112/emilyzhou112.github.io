@@ -9,7 +9,7 @@ My current academic and research work mainly focus on using GIS, geospatial mach
 
 [gis and planning](pages/gis_planning.md)
 
-[pen source gis analysis](pages/open_gis.md)
+[open source gis analysis](pages/open_gis.md)
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
