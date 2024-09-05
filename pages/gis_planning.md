@@ -32,8 +32,13 @@ This project develops a logistic regression model to predict whether homeowners 
 
 ## [Predicting Summer Bikeshare Demand in Jersey City](../musa-reports/05-BikeShare-JerseyCity.html)
 
+This project focuses on developing a demand prediction model for Citi Bike in Jersey City using Ordinary Least Squares (OLS) regression. By analyzing historical data on bike usage across various stations, time periods, and weather conditions, the model aims to forecast demand and address the challenge of rebalancing—ensuring an adequate supply of bikes at each station. The project involves feature engineering, exploratory analysis of temporal and spatial patterns, and the integration of weather data. This predictive approach helps improve the availability of bikes, optimizing user experience and supporting sustainable transportation.
 
-
+<p align="center">
+  <img width="110%" height="100%" src="../profile_img/NJ-Bikeshare.png">
 
 
 ## [Geosptial Risk Terrain Model for Better Rehabilitation Resource Allocation and Heroin-Overdose Prevention, a Case Study of Cincinnati, Ohio](../musa-reports/06-Cincinnati-Heroin-Overdose.html)
+
+<p align="center">
+  <img width="110%" height="100%" src="../profile_img/Cincy-Risk.png">
