@@ -7,7 +7,7 @@ title: Main Page
 
 My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation.
 
-[test page](gis_planning.md)
+[test page](pages/gis_planning.md)
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
