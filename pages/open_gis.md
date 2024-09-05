@@ -7,6 +7,14 @@ This project applies machine learning and remote sensing data to predict Chronic
     <img width="110%" height="100%" src="../profile_img/RS-PA-EE.png" />
 </p>
 
+## [Reproduction of Chakraborty 2021 - An Intracategorical Analysis of COVID-19 and People with Disabilities](../assets/01-RPr-Chakraborty.pdf)
+
+This project focuses on reproducing Chakraborty (2021), which examines the relationship between COVID-19 rates and the demographic characteristics of people with disabilities at the county level in the continental U.S. The reproduction uses R Markdown, leveraging the SpatialEpi package for spatial scan statistics and geepack for generalized estimating equations (GEE). Key outputs include maps of county-level COVID-19 incidence, bivariate correlation tables, and GEE models controlling for spatial dependence.
+
+<p align="center">
+    <img width="90%" height="90%" src="../profile_img/Chakraborty.png" />
+</p>
+
 ## [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](../dsm_analysis/dsm_report.md)
 
 This project uses GIS to assess how flooding impacts water accessibility in Dar es Salaam, Tanzania. By analyzing spatial data on wards, water sources, flood extent, and residential buildings, the study identifies households whose access to water is compromised during floods. Using QGIS and PostgreSQL with PostGIS, the project maps service areas for water amenities and visualizes the spatial patterns of water insecurity at the ward level. The findings highlight the disproportionate impact of water access issues on vulnerable populations in informal settlements, supporting efforts to improve resource allocation and resilience planning in the city.
@@ -31,7 +39,7 @@ This project replicates and extends Wang et al.'s (2016) study on using Twitter 
     <img width="110%" height="100%" src="../RE-Ida/hotspots.png" />
 </p>
 
-## [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](../covidpattern/report.md)
+## [Reproduction and Replication Analysis of Academic Information Patterns under COVID](../covidpattern/report.md)
 
 This project reproduces and extends Homolak et al.'s analysis of COVID-19-related academic publications to assess the scientific community's response during the pandemic. The original study examined publication rates, author affiliations, and collaboration patterns using metadata from PubMed, Scopus, and BioRxiv, revealing early challenges with information velocity and collaboration. By replicating the study with updated article data and organizing the workflow into an R-Markdown document, this project verifies the original conclusions and assesses how academic information patterns have evolved over time. The reproducibility and open-access approach highlight the importance of collaboration and transparency in pandemic research.
 
