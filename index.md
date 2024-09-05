@@ -5,15 +5,16 @@ title: Main Page
 
 # Emily's World of Geography
 
-My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation. 
+My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation.
 
-
+[test page](gis_planning.md)
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
 ## GIS for Public Policy Analytics
-In Fall 2023,  I have applied geospatial machine learning techniques in the urban planning and public policy realm. All of these projects are aimed towards developing models to efficiently allocate limited resources across space. Use cases for these models include transportation planning, housing, public health, criminal justice, and beyond. 
+
+In Fall 2023,  I have applied geospatial machine learning techniques in the urban planning and public policy realm. All of these projects are aimed towards developing models to efficiently allocate limited resources across space. Use cases for these models include transportation planning, housing, public health, criminal justice, and beyond.
 
 - [Transit Oriented Development in Boston](musa-reports/01-Boston-TOD.html)
 - [Philadelphia Home Price Prediction with Geospatial Machine Learning](musa-reports/02-Philly-ML.html)
@@ -23,6 +24,7 @@ In Fall 2023,  I have applied geospatial machine learning techniques in the urba
 - [Geosptial Risk Terrain Model for Better Rehabilitation Resource Allocation and Heroin-Overdose Prevention, a Case Study of Cincinnati, Ohio](musa-reports/06-Cincinnati-Heroin-Overdose.html)
 
 ## Open Source GIScience Analyses
+
 I have expanded my experience in geospatial analysis through learning advanced spatial statistics and reproducing studies using open source geospatial software. In Fall 2021, I reproduced three health and hazards spatial analysis studies using open source R or Python code and completed a reproducible study on urban resource accessibility using Postgre SQL.
 
 - [Water Amenity Access and Flood Hazard Vulnerability in Dar es Salaam, Tanzania](dsm_analysis/dsm_report.md)
@@ -31,6 +33,7 @@ I have expanded my experience in geospatial analysis through learning advanced s
 - [Reproduction and Replication Analysis of Academic Information Patterns under COVID-19](covidpattern/report.md)
 
 ## New England Planning with Mock Mapping Charrettes
+
 In Winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedin.com/in/benjamin-meader-5ba6923a), current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings.
 
 - [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
@@ -40,7 +43,8 @@ In Winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedi
 - [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
 
 ## Cartography and Architectural Studies
-I honed my skills in design through studying architecture with Middlebury alumni [Alix Pauchet](https://www.linkedin.com/in/alix-pauchet-b0591367) in Winter 2021 and cartography with Professor [Jeff Howarth](https://jeffhowarth.github.io/) in Spring 2021. 
+
+I honed my skills in design through studying architecture with Middlebury alumni [Alix Pauchet](https://www.linkedin.com/in/alix-pauchet-b0591367) in Winter 2021 and cartography with Professor [Jeff Howarth](https://jeffhowarth.github.io/) in Spring 2021.
 
 - [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
 - [Where the Water Goes in Vermont](gg231reports/proj1.md)
@@ -48,6 +52,7 @@ I honed my skills in design through studying architecture with Middlebury alumni
 - [Building Portraits of Richardson Place, Burlington, Vermont](blogposts/buildingportraits.md)
 
 ## Data Visualization Projects
+
 I also applied my interest and expertise in spatial data analysis and visualization to various project works in Geography, Computer Science, and Math that cover topics ranging from public health, geopolitics, generative art, and more!
 
 - [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
@@ -59,19 +64,22 @@ I also applied my interest and expertise in spatial data analysis and visualizat
 ---
 
 ## GIS Research on Reproducibility and Replicability in Geographical Science
-In summer 2022, I worked as a GIS research assistant for Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) and ASU Professor [Peter Kedron](https://search.asu.edu/profile/3316903) to reproduce spatial health geography papers. In the past two years, we have: 
+
+In summer 2022, I worked as a GIS research assistant for Middlebury College professor [Joseph Holler](https://www.middlebury.edu/college/people/joseph-holler) and ASU Professor [Peter Kedron](https://search.asu.edu/profile/3316903) to reproduce spatial health geography papers. In the past two years, we have:
+
 - Hosted [workshop](https://github.com/HEGSRR/UCGIS-Workshop) at [UCGIS 2022](https://www.ucgis.org/workshops-2022#HEGS) in Syracus, NY
 - Completed reseach compendium on [reproducing](https://osf.io/s5mtq/) and [replicating](https://osf.io/5tzy9/) Chakraborty 2021
 - Hosted [sessions](https://github.com/HEGSRR/CP-AAG-2023) at [AAG 2023](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681) in Denver, CO
-- Presented at Middlebury College's Spring 2023 Student [Symposium](assets/sym-poster-final-emily.pdf) 
-
+- Presented at Middlebury College's Spring 2023 Student [Symposium](assets/sym-poster-final-emily.pdf)
 
 ## Remote Sensing Research on Congo Basin Forest Change
+
 Since Spring 2022, I have worked with Middlebury College Professor Niwaeli Kimambo and Phd candidate Sarah Tolbert at University of Wisconsin Madison on managing spatial database that record study sites and metadata of included journals in comparing the drivers of deforestation versus degradation.
 
 This is an ongoing work. Final results will be shared soon, but for now you can view the project layers [here](https://drive.google.com/drive/folders/1-Omn3vSY2g0Sdce00yJmtXgxZcyknD6v?usp=sharing).
 
 ## Reflections on Geospatial Research
+
 - [What is Open Source GIScience?](blogposts/open-giscience.md)
 - [GIS: Science or Tool?](blogposts/science_tool.md)
 - [Reproducibility and Replicability in Geography](blogposts/r_r.md)
