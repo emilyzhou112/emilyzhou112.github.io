@@ -1,4 +1,11 @@
 <!-- This is a comment to prevent the first line from being interpreted as a title -->
+## [A GIS-Based Multi-Criteria Decision Analysis for Electric Vehicle Supply Equipment (EVSE) Site Selection in Philadelphia](../musa-reports/CAGIS-UCGIS-2024.pdf)
+
+This project presents a GIS-based multi-criteria decision analysis (MCDA) approach to identify optimal locations for Electric Vehicle Supply Equipment (EVSE) in Philadelphia, supporting the city's Smart City goals. The analysis integrates criteria such as socio-demographic indicators, spatial accessibility, public parking availability, and power grid proximity. Using methods like AHP, WSM, PROMETHEE, and TOPSIS, the study identifies high-demand areas for EVSE deployment and proposes a public-private partnership to implement the infrastructure. The approach offers a scalable, replicable model for equitable EVSE site selection in other cities.
+
+<p align="center">
+  <img width="110%" height="100%" src="../profile_img/Philly-EVSE.png" />
+</p>
 
 ## [Transit Oriented Development in Boston](../musa-reports/01-Boston-TOD.html)
 
