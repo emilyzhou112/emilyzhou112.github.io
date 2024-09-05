@@ -22,6 +22,7 @@ This project develops a geospatial risk model to predict robbery incidents in Ch
 
 <p align="center">
   <img width="110%" height="100%" src="../profile_img/Chicago-Risk.png" />
+</p>
 
 ## [Targeting Housing Subsidy with People-Based Machine Learning](../musa-reports/04-Housing-Subsidy.html)
 
@@ -29,6 +30,7 @@ This project develops a logistic regression model to predict whether homeowners 
 
 <p align="center">
   <img width="110%" height="100%" src="../profile_img/Housing-Subsidy.png" />
+</p>
 
 ## [Predicting Summer Bikeshare Demand in Jersey City](../musa-reports/05-BikeShare-JerseyCity.html)
 
@@ -36,7 +38,7 @@ This project focuses on developing a demand prediction model for Citi Bike in Je
 
 <p align="center">
   <img width="110%" height="100%" src="../profile_img/NJ-Bikeshare.png" />
-
+</p>
 
 ## [Geosptial Risk Terrain Model for Better Rehabilitation Resource Allocation and Heroin-Overdose Prevention, a Case Study of Cincinnati, Ohio](../musa-reports/06-Cincinnati-Heroin-Overdose.html)
 
@@ -44,3 +46,4 @@ This project focuses on modeling opioid overdose risk in Cincinnati, Ohio, using
 
 <p align="center">
   <img width="110%" height="100%" src="../profile_img/Cincy-Risk.png" />
+</p>
