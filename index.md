@@ -3,7 +3,10 @@ layout: default
 title: Main Page
 ---
 
-# Emily's World of GIS, Planning, and Design
+# Welcome to My World of GIS, Planning, and Design
+
+I am a 
+applied them to faciliate planning and decision-making 
 
 My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation.
 
