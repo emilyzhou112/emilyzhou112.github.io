@@ -110,7 +110,7 @@ The narratives are supported by selected ourse readings that include [*The Poeti
 
 ===
 
-![drawing](1240assets/IMG_9888.JPG)
+![drawing](../1240assets/IMG_9888.JPG)
 *In the process of learning to produce some elevation drawings:) (01/27/22)*
 
 > In the end, I would like to thank my instructors Zane and Alix for being super helpful in guiding me to produce standard architectural drawings and brainstorming the site plan maps.
