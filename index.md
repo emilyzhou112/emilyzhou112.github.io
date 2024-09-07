@@ -3,10 +3,8 @@ layout: default
 title: Main Page
 ---
 
-# Welcome to My World of GIS, Planning, and Design
+# Welcome To My World of GIS, Planning, and Design! 
 
-I am a 
-applied them to faciliate planning and decision-making 
 
 My current academic and research work mainly focus on using GIS, geospatial machine learning, and cartographic design to study urban resource accessibility, community health and vulnerability, as well as smart cities technology implementation.
 
@@ -21,30 +19,13 @@ Advanced spatial statistics, reproducibility and replicability work in health an
 
 ## [Cartographic and Urban Design](pages/cart_design.md)
 
+Created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings. Architecture and cartography studies at Midd and Penn. 
+
 ---
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
-
-## New England Planning with Mock Mapping Charrettes
-
-In Winter 2021, I worked with Middlebury alumni [Ben Meader](https://www.linkedin.com/in/benjamin-meader-5ba6923a), current director of Rhumb Line Maps to practice solving real planning issues in New England. I created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings.
-
-- [Accessibility and Agency in Cambridge and Somerville, Massachusetts](1026reports/week1.md)
-- [Conservation and Ecology in Coastal Maine](1026reports/week2.md)
-- [Sustainable Development in Chittenden County, Vermont](1026reports/week3.md)
-- [Law and Social Justice in Boston, Massachusetts](1026reports/week4.md)
-- [Flood Hazard Vulnerability in Southern Vermont](120reports/exam2.md)
-
-## Cartography and Architectural Studies
-
-I honed my skills in design through studying architecture with Middlebury alumni [Alix Pauchet](https://www.linkedin.com/in/alix-pauchet-b0591367) in Winter 2021 and cartography with Professor [Jeff Howarth](https://jeffhowarth.github.io/) in Spring 2021.
-
-- [A Journey of Cherry Blossom Through Time](gg231reports/proj2.md)
-- [Where the Water Goes in Vermont](gg231reports/proj1.md)
-- [Comparative Visual Study of Shaded Relief in Churfirsten Switzerland](gg231reports/proj3.md)
-- [Building Portraits of Richardson Place, Burlington, Vermont](blogposts/buildingportraits.md)
 
 ## Data Visualization Projects
 
