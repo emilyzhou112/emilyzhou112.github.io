@@ -1,11 +1,18 @@
 <!-- This is a comment to prevent the first line from being interpreted as a title -->
 
-### Philadelphia's Urban Landscape Evolution - 200 Years of Change
+### [Philadelphia's Urban Landscape Evolution - 200 Years of Change](../cart/penndesign/penn-vintage.pdf)
 
+This project presents a detailed reproduction of old maps and renderings of historic street scenes in Philadelphia, focusing on three distinct eras in the city’s evolution. To better recreate the urban landscape, the work draws from a diverse range of sources, including historical land use maps, photographs, architectural data, and oral histories. The overall design is guided by a careful selection of textures, colors, linework, patterns, and typography that reflect the aesthetic and historical context of each era. The production workflow of the maps and street section drawings begins with modeling the outline of building parcels and street segments in McNeel Rhino and transitions through various stages of refinement and detailing in Illustrator and Photoshop. The ultimate goal of this work is to serve as both a visual record and a guide for those interested in the preservation and understanding of historic urban environment of Philadelphia. 
+
+<p align="center">
+  <img width="100%" height="70%" src="../cart/penndesign/1962.png"> 
+</p>
 
 ### [Building Portraits of Richardson Place, Burlington, Vermont](../cart/1240assets/buildingportraits.md)
 
 The project examines the historical and architectural significance of the Richardson Place building in Burlington’s Church Street Marketplace. Constructed in 1895 and later transformed into Abernethy’s Department Store, the building underwent a major renovation in 1983, restoring its original features. This project explores the building’s role within Burlington's urban core, highlighting its structural details, spatial planning, and architectural style. Through historical maps, site plans, and elevation drawings, the analysis underscores Richardson Place's ongoing importance as a landmark and its integration into the evolving urban landscape.
+
+
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0">
     <tr>
@@ -90,7 +97,7 @@ This map is designed to teach primary school children in Vermont about the flow 
 This visual study explores the impact of design choices on creating an effective terrain map, using Churfirsten in Switzerland as a case study. The process involves analyzing how various factors—such as light source, blending modes, and color palettes—affect the visual outcome of the map. By controlling these elements, the study aims to understand how different decisions influence the representation of elevation, topography, and land cover. The goal is to experiment with these design variables to produce compelling and informative terrain maps.
 
 <p align="center">
-  <img width="100%" height="90%" src="../profile_img/shadedrelief.png"> 
+  <img width="100%" height="70%" src="../profile_img/shadedrelief.png"> 
 </p>
 
 
