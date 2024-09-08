@@ -26,8 +26,6 @@ This section showcases projects focused on visualizing and analyzing large datas
 
 This section delves into key reflections on the evolving landscape of geospatial research. The discussions cover the transformative role of open-source GIScience, the importance of reproducibility, uncertainty, as well as the ethical considerations in geographic research, particularly within contexts like vulnerability modeling and Volunteered Geographic Information (VGI) during crises. 
 
----
-
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
 
