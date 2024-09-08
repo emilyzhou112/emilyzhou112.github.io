@@ -11,11 +11,11 @@ This section of the portfolio highlights projects that use geospatial analysis a
 
 ## [Open Source GIScience Analysis](pages/open_gis.md)
 
-This section of the portfolio features project that apply advanced spatial statistics and focus on reproducibility in health and hazards geography. Using open-source tools like R, Python, and PostgreSQL, these projects cover topics such as respiratory disease prediction with remote sensing, COVID-19 healthcare access, water vulnerability in Tanzania, and social media analysis for disaster response, all emphasizing transparent and replicable research.
+This section of the portfolio features project that apply advanced spatial statistics and focus on reproducibility in health and hazards geography. Using open-source tools like R, Python, and PostgreSQL, these projects cover topics such as disease prediction with remote sensing, COVID-19 healthcare access, water vulnerability in Tanzania, and social media analysis for disaster response。 
 
 ## [Cartographic and Urban Design](pages/cart_design.md)
 
-This section of the portfolio highlights a series of cartographic and urban design projects that explore historical and contemporary landscapes through innovative visualizations. The works include detailed reproductions of historic Philadelphia street scenes, architectural studies of iconic buildings in Burlington, and mapping exercises focusing on accessibility, conservation, and sustainable development. Each project emphasizes design elements such as texture, typography, and color theory, offering a balance between aesthetic appeal and spatial analysis. 
+This section of the portfolio highlights a series of cartographic and design projects that explore historical and contemporary landscapes through visualizations. The works include detailed reproductions of historic Philadelphia street scenes, architectural studies of buildings in Burlington, and mapping exercises focusing on accessibility, conservation, and sustainable development. 
 
 ## [Big Data Visualization](pages/data_viz.md)
 
@@ -24,8 +24,7 @@ This section showcases projects focused on visualizing and analyzing large datas
 
 ## [Reflections on Geospatial Research](pages/blogs.md)
 
-This section delves into key reflections on the evolving landscape of geospatial research. The discussions cover the transformative role of open-source GIScience, the debates around whether GIS is a tool or a science highlight its dual role in advancing spatial theory and inquiry, the importance of reproducibility, uncertainty, as well as the ethical considerations in geographic research, particularly within contexts like vulnerability modeling and Volunteered Geographic Information (VGI) during crises. 
-
+This section delves into key reflections on the evolving landscape of geospatial research. The discussions cover the transformative role of open-source GIScience, the importance of reproducibility, uncertainty, as well as the ethical considerations in geographic research, particularly within contexts like vulnerability modeling and Volunteered Geographic Information (VGI) during crises. 
 
 ---
 
