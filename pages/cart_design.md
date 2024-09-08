@@ -1,5 +1,4 @@
 <!-- This is a comment to prevent the first line from being interpreted as a title -->
-
 ## [Philadelphia's Urban Landscape Evolution - 200 Years of Change](../cart/penndesign/penn-vintage.pdf)
 
 This project presents a detailed reproduction of old maps and renderings of historic street scenes in Philadelphia, focusing on three distinct eras in the city’s evolution. To better recreate the urban landscape, the work draws from a diverse range of sources, including historical land use maps, photographs, architectural data, and oral histories. The overall design is guided by a careful selection of textures, colors, linework, patterns, and typography that reflect the aesthetic and historical context of each era. The production workflow of the maps and street section drawings begins with modeling the outline of building parcels and street segments in McNeel Rhino and transitions through various stages of refinement and detailing in Illustrator and Photoshop. The ultimate goal of this work is to serve as both a visual record and a guide for those interested in the preservation and understanding of historic urban environment of Philadelphia. 

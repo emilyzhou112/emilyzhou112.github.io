@@ -21,22 +21,14 @@ Advanced spatial statistics, reproducibility and replicability work in health an
 
 Created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings. Architecture and cartography studies at Midd and Penn. 
 
-## [Big Data Visualization](pages)
+## [Big Data Visualization](pages/data_viz.md)
+
+## [Reflections on Geospatial Research](pages/blogs.md)
 
 ---
 
 ![Lake](assets/IMG_7528.JPG)
 *Qiandao Lake, Chun'an, China*
-
-
-## Data Visualization Projects
-
-I also applied my interest and expertise in spatial data analysis and visualization to various project works in Geography, Computer Science, and Math that cover topics ranging from public health, geopolitics, generative art, and more!
-
-- [The Sino-Myanmar Border Conflict](https://storymaps.arcgis.com/stories/672602e5a37b4643a121110efa7d855a)
-- [Spatial Variations of Health Conditions in the USA](assets/ds_pre.pdf)
-- [Interactive COVID-19 Dashboard with JavaScript D3](https://observablehq.com/d/b0fdbacaccbc7f7c)
-- [Sketchbook for Generative Art with JavaScript P5](https://csci467-s23.github.io/sketchbook-emilyzhou112/)
 
 
 ## Reflections on Geospatial Research
