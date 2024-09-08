@@ -21,6 +21,8 @@ Advanced spatial statistics, reproducibility and replicability work in health an
 
 Created a series of maps and visual studies on public transport access, habitat conservation, and residential development, etc. and presented in 4 mock stakeholder meetings. Architecture and cartography studies at Midd and Penn. 
 
+## [Big Data Visualization](pages)
+
 ---
 
 ![Lake](assets/IMG_7528.JPG)
