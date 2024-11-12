@@ -34,3 +34,19 @@ The EarthQuaker Dashboard visualizes global seismic activity using earthquake da
 <p align="center">
   <img width="100%" height="70%" src="../profile_img/earthquaker.png"> 
 </p>
+
+## [The Sappy Tales: A Maple Syrup Adventure](https://emilyzhou112.github.io/story-map-project/)
+
+This is a story map that explores the history, production, and cultural significance of maple syrup, focusing on its roots in the northeastern U.S. It highlights key regions like Vermont, New York, and New Hampshire, guiding users through the syrup-making process from sap collection to the final product.
+
+<p align="center">
+  <img width="100%" height="70%" src="../profile_img/maple_storymap.png"> 
+</p>
+
+## [Volcanoes Watch: A Global Dashboard of Eruptions and Impacts](https://emilyzhou112.github.io/dashboard-project/)
+
+This project is a Volcano Explorer Dashboard, designed to provide an interactive and visual exploration of global volcanic activity. The dashboard features a 3D globe that displays the spatial distribution of volcanoes across the world. It includes two donut charts for visualizing the distribution of volcanoes by continent and by type, offering insights into regional patterns and geological characteristics. Additionally, a lollipop chart presents the number of deaths and the Volcanic Explosivity Index (VEI) by volcano type. Users can also explore major historical eruption events, filtered by year and country, for a deeper understanding of significant volcanic occurrences. This project aims to provide an engaging and educational platform to explore volcanoes and their effects.
+
+<p align="center">
+  <img width="100%" height="70%" src="../profile_img/volcano-dashboard.png"> 
+</p>
